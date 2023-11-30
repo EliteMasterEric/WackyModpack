@@ -7,7 +7,6 @@ A modpack of aesthetic and quality-of-life changes for Lethal Company.
 
 # Dependencies
 - [BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/): Mod loader.
-- [LC API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/): APIs for AssetBundle loading and networking.
 - [HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher): Dependency mod (???)
 - [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib): Adds APIs for custom scrap and for network prefabs.
 
