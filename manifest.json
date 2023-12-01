@@ -1,14 +1,15 @@
 {
     "name": "WackyModpack",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyModpack/",
     "description": "EliteMasterEric's curated modpack for Lethal Company.",
     "dependencies": [
 		"EliteMasterEric-WackyCosmetics-1.1.0",
+		"EliteMasterEric-Coroner-1.0.0",
 
 		"BepInEx-BepInExPack-5.4.2100",
 		"Evaisa-HookGenPatcher-0.0.5",
-		"Evaisa-LethalLib-0.4.2",
+		"Evaisa-LethalLib-0.4.5",
 
 		"notnotnotswipez-MoreCompany-1.5.1",
 		"tinyhoot-ShipLobby-1.0.2",

@@ -3,11 +3,12 @@
 A modpack of aesthetic and quality-of-life changes for Lethal Company.
 
 # My Mods
-- [EliteMasterEric's Wacky Cosmetics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyCosmetics/): Adds new cosmetics to MoreCompany/
+- [EliteMasterEric's Wacky Cosmetics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyCosmetics/): Adds new cosmetics to MoreCompany.
+- [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/): Adds cause of death to the Performance Report.
 
 # Dependencies
 - [BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/): Mod loader.
-- [HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher): Dependency mod (???)
+- [HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher): Dependency mod (with unknown purpose?).
 - [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib): Adds APIs for custom scrap and for network prefabs.
 
 # Multiplayer
