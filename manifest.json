@@ -1,24 +1,30 @@
 {
     "name": "WackyModpack",
-    "version_number": "1.0.2",
+    "version_number": "45.0.3",
     "website_url": "https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyModpack/",
     "description": "EliteMasterEric's curated modpack for Lethal Company.",
     "dependencies": [
-		"EliteMasterEric-WackyCosmetics-1.1.0",
-		"EliteMasterEric-Coroner-1.0.0",
-
 		"BepInEx-BepInExPack-5.4.2100",
+		"notnotnotswipez-MoreCompany-1.7.2",
+		"EliteMasterEric-Coroner-1.4.2",
+		"EliteMasterEric-SlimeTamingFix-1.0.2",
+		"EliteMasterEric-WackyCosmetics-1.1.0",
 		"Evaisa-HookGenPatcher-0.0.5",
-		"Evaisa-LethalLib-0.4.5",
-
-		"notnotnotswipez-MoreCompany-1.5.1",
-		"tinyhoot-ShipLobby-1.0.2",
-
+		"Evaisa-LethalLib-0.6.3",
+		"alexanderjoe-LC_Symphony-1.2.0",
 		"Drakorle-MoreItems-1.0.1",
+		"tinyhoot-ShipLobby-1.0.2",
 		"vasanex-ItemQuickSwitch-1.1.0",
-		"tinyhoot-ShipLoot-1.0.0",
-
+		"2018-LC_API-2.2.0",
+		"PopleZoo-BetterItemScan-2.1.3",
+		"BlueAmulet-LCBetterClock-1.0.3",
+		"FlipMods-LetMeLookDown-1.0.1",
+		"EladNLG-EladsHUD-1.1.0",
 		"Badham_Mods-CirnoFumoScrap-1.2.1",
-		"x753-More_Suits-1.3.2"
+		"TheBeeTeam-PersistentPurchases-1.2.0",
+		"LRC-LRCCosmetics-1.2.0",
+		"egeadam-MoreScreams-1.0.3",
+		"Hexa-Hexas_Cosmetics-0.0.2",
+		"broiiler-inacraft_cosmetics_megapack-1.0.1",
     ]
 }
