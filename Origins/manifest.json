@@ -1,0 +1,32 @@
+{
+    "name": "WackyModpackOrigins",
+    "version_number": "49.1.0",
+    "website_url": "https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyModpackOrigins/",
+    "description": "An minimalist modpack for testing mod stability.",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+		"PotatoePet-AdvancedCompany-1.0.109",
+		"Suskitech-AlwaysHearActiveWalkies-1.4.4",
+		"PopleZoo-BetterItemScan-3.0.0",
+		"TwinDimensionalProductions-CoilHeadStare-1.0.3",
+		"EliteMasterEric-Coroner-1.5.3",
+		"Jamil-Corporate_Restructure-1.0.6",
+		"CTNOriginals-CrossHair-1.0.5",
+		"akechii-DiscountAlert-2.3.0",
+		"MassiveNewCoilers-FixCentipedeLag-2023.12.7",
+		"EliteMasterEric-GarageDoorFix-1.0.0",
+		"Monkeytype-HideChat-1.0.0",
+		"FutureSavior-Hold_Scan_Button-1.1.1",
+		"Owen3H-IntroTweaks-1.4.2",
+		"boxofbiscuits97-ItemDropCycler-1.1.0",
+		"BatTeam-LethalFashion-1.0.6",
+		"FlipMods-LetMeLookDown-1.0.1",
+		"BlueAmulet-LogNeuter-1.0.3",
+		"Silvercore-Permanent_Ladder-1.0.3",
+		"NutNutty-SellTracker-1.1.0",
+		"EliteMasterEric-SlimeTamingFix-1.0.2",
+		"anormaltwig-TerminalExtras-1.0.1",
+		"KodiCraft-TermSpeak-1.1.0",
+		"TheDeadSnake-Touchscreen-1.0.8"
+    ]
+}

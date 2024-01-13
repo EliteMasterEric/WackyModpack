@@ -1,0 +1,29 @@
+# Version 49.1.0
+- Built from scratch.
+- Added 1 dependency mod:
+    - BepInEx
+- Added 1 gameplay mod:
+    - AdvancedCompany
+- Added 22 quality-of-life mods:
+    - AlwaysHearActiveWalkies
+    - BetterItemScan
+    - CoilHeadStare
+    - Coroner
+    - CorporateRestructure
+    - Crosshair
+    - DiscountAlert
+    - FixCentipedeLag
+    - GarageDoorFix
+    - HideChat
+    - HoldScanButton
+    - IntroTweaks
+    - ItemDropCycler
+    - LethalFashion
+    - LetMeLookDown
+    - LogNeuter
+    - PermanentLadder
+    - SellTracker
+    - SlimeTamingFix
+    - TerminalExtras
+    - TermSpeak
+    - Touchscreen

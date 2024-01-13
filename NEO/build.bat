@@ -1,0 +1,2 @@
+REM Create a zip file named WackyModpackNEO.zip containing all files (except build.bat and the zip file itself) in the current directory.
+"C:\Program Files\7-Zip\7z.exe" a -r WackyModpackNEO.zip * -x!build.bat -x!WackyModpackNEO.zip
