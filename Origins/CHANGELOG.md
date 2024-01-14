@@ -1,3 +1,28 @@
+# Version 49.3.0
+- Added 4 dependency mods:
+    - HookGenPatcher
+    - Nuclear Lib
+    - LethalExpansion
+    - LethalExpansionCore
+- Added 5 gameplay mods:
+    - Gnome Chompski
+    - Hatsune Miku
+    - Immersive Scraps
+    - Scavenger Plushie
+    - Trophy
+- Added 1 cosmetic mod:
+    - Yippee
+- Added 3 quality-of-life mods:
+    - CleanerLogs
+    - ScanFix
+    - LightSwitchScanNode
+- Removed 1 quality-of-life mod:
+    - ItemDropCycler: Causes a desync bug on multiplayer
+
+# Version 49.2.0
+- Added 1 cosmetic mod:
+    - Company Issued Protogen
+
 # Version 49.1.0
 - Built from scratch.
 - Added 1 dependency mod:
