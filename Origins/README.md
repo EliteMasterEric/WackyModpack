@@ -2,13 +2,15 @@
 
 A modpack for Lethal Company.
 
-# Dependency Mods (6)
+# Dependency Mods (8)
 - BepInEx: Core modloader.
 - HookGenPatcher: Dependency mod.
 - LethalCompany_InputUtils: Dependency for AdvancedCompany.
-- LethalExpansion: SDK mod for custom scrap
-- LethalExpansionCore: SDK mod for custom scrap
+- LethalExpansion: Dependency for LethalExpansionCore.
+- LethalExpansionCore: SDK mod for custom scrap and moons
 - NuclearLib: Dependency mod.
+- LethalLevelLoader: Dependency mod for custom dungeons
+- LethalLib: SDK/dependency mod. Unknown compatiblity with LethalExpansion.
 
 # Gameplay Mods (6)
 - AdvancedCompany: Lobby expansion, perks, and more.
@@ -17,6 +19,10 @@ A modpack for Lethal Company.
 - Immersive Scraps: Highly optimized new scraps.
 - Scavenger Plushie: Squish them
 - Trophy: Bronze, silver, gold, platinum. Heavy but valuable.
+
+# Custom Dungeon Mods (2)
+- Scoopy's Variety Mod: Adds a "dungeon" dungeon layout.
+- SCP Foundation Dungoen: A dungeon in an abandoned facility for containing anomalies.
 
 # Cosmetic/Asset Replacement Mods (2)
 - Company Issued Protogen: Model replacement.
@@ -50,6 +56,7 @@ A modpack for Lethal Company.
 
 # Additional Config Changes
 - Enabled some flags in LogNeuter
+- Modified weights for Scoopy's Dungeon and SCP Foundation Dungeon
 
 # Excluded Mods
 - Diversity (quicksand is broken wait for update)

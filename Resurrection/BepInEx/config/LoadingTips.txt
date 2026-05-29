@@ -1,0 +1,35 @@
+﻿
+Watch out for Blue weather.
+The Teleporter no longer drops your tools on the ground. You still drop Scrap.
+The Inverse Teleporter no longer drops your tools on the ground. Beam me in!
+The Teleporter and Inverse Teleporter now work on Radar Boosters. 
+99% of gamblers quit before they win. Double down.
+Toilet paper isn't conductive anymore.
+You can sprint up and down ladders now.
+The Masked can leave out of fire exits now.
+Tattered metal sheets are worth more than before.
+The scanner now shows fire exits and the dropship.
+Old Birds can see in the fog with their floodlights.
+The "scan" in the terminal is now way more accurate.
+Forest Giants can't see very well in Blizzards and Fog.
+Jesters no longer block doorways as they're winding up.
+Spike traps won't spawn right next to entrances anymore.
+Fire exits now tend to spawn further from other entrances.
+There are now 15 additional colors of suits to choose from.
+Due to strange phenomena, there is no lightning on the planet Gordion.
+The Company Ship is now wider to accomodate more passengers.
+Text chat has infinite range while holding the Walkie Talkie.
+All the suits from the base game are available from the start.
+Barbers spawn in syncronized groups now, like Zeekers intended.
+Cadaver Growths are common on Adamance, but no longer guaranteed.
+Earth Leviathans leave behind pools of Quicksand where they tunnel.
+The Toy Cube texture is replaced with one that's actually solvable.
+Stun Grenades and Radar Boosters will sun Coil Heads for 11 seconds.
+If you kill a Masked, you can swipe its Mask and sell it for a reward.
+Type "windows" in the Terminal to buy windows to see outside the ship.
+Previous employees have left working gear in the facility. Go find it!
+Press the number keys to select slots. Emotes moved to the Function keys.
+If you find a big red button in the facility, DON'T push it. Or maybe do.
+Like most people, you can kill the Forest Giant by hitting it with your car.
+The Zap Gun has been gigabuffed; it's cheaper, stuns turrets, and open doors.
+Type "scan" in the Terminal while in space to appraise all the scrap on board.

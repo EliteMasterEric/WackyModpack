@@ -1,6 +1,18 @@
-# Version 49.3.0
-- Added 4 dependency mods:
+# Version 49.5.0
+- Added 1 gameplay mod:
+    - SCP Foundation Dungeon
+
+
+# Version 49.4.0
+- Added 3 dependency mods:
     - HookGenPatcher
+    - LethalLib
+    - LethalLevelLoader
+- Added 1 gameplay mod:
+    - Scoopy's Variety Mod
+
+# Version 49.3.0
+- Added 3 dependency mods:
     - Nuclear Lib
     - LethalExpansion
     - LethalExpansionCore
