@@ -1,4 +1,37 @@
-# Upcoming
+# Version 81.2.0
+## Added
+- Added a total of 16 new mods!
+- Added the following **SPECIAL GUEST** mods (in the pack temporarily to see how we like them!):
+    - Wesleys Moons (a high-quality mod adding 39 custom moons and a custom progression system)
+    - Wesleys Interiors (twelve new interiors used by Wesleys Moons)
+    - Wesleys Ememy Variants (variants of enemies used by Wesleys Moons)
+    - Wesleys Weathers (four new weathers used by Wesleys Moons)
+- Added the following gameplay mods:
+    - StarlancerEnemyEscape (enemies have a chance to escape the facility)
+- Added the following quality-of-life mods:
+    - NoCompanyPenalties (Disables penalties for dying on the company moon because people keep trolling)
+    - MainMenuVersion (Lets me customize the version number on the main menu)
+- Added the following performance/bugfix mods:
+    - ApparatusFix (Fixes some sound issues with the Apparatus)
+- Added the following library mods:
+    - DungeonGenerationPlus (a dependency of Wesley's Moons, expands compatibility for LC's dungeon generation)
+    - StarlancerAIFix (a dependency of Wesley's Moons, automatically fixes enemy behavior inside/outside the facility based on spawn location)
+    - LethalLevelLoader (a dependency of Wesley's Moons, provides a custom API to support adding custom moons/items/unlockables/enemies)
+    - LCCutscene (a dependency of Wesley's Moons, a tool for creating immersive ingame cutscenes)
+    - MaterialAssetRestorerCore (a dependency of Wesley's Moons, helps devs of custom moons use vanilla materials)
+    - WaterAssetRestorer (a dependency of Wesley's Moons, helps devs of custom moons use vanilla water materials)
+    - Moon_Day_Speed_Multiplier_Patcher (a dependency of Wesley's Moons, fixes several bugs tied to moons with a custom day speed multiplier)
+    - CustomStoryLogs (a dependency of Wesley's Moons, lets you add custom story logs to your moons)
+    - TerminalUtils (a bunch of dynamic preview and command related fixes for the terminal)
+## Changed
+- Fixed the config for ButteRyBalance to restore the vanilla Jetpack behavior (here you go Pread!)
+- Disabled radio static playing in the Cruiser's radio.
+- Bumped 32 mod versions, providing new bug fixes and stability improvements.
+## Removed
+- Removed several mods:
+    - Imperium (should be out of the pack bother me if I accidentally readd it)
+    - LCLocalFixes (it's marked as deprecated)
+
 
 # Version 81.1.2
 ## Added
