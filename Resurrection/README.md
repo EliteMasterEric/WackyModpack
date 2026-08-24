@@ -21,13 +21,26 @@ NOTE: Loading tip max length is 80 characters.
   - might need to look into this more
 - Some loading screen tips were too long for the box
 - Only the host can start the ship when first starting the lobby (this is fine...)
-## TO FIX
-- Dying at the Company Building probably shouldn't have a penalty
 - Jetpack controls are weird/broken
+## TO FIX
+- Fix custom moons appearing in the catalog when not unlocked
+- Teleporting Radar Booster also teleports a player
+- Teleporting players that aren't the host doesn't drop their scrap
+- 70% off everything day?
+
+## Notes
+- AsyncLogger has a config to disable logging from certain mods.
 
 
 ## Gameplay
 Mods which add new features or content.
+### SPECIAL GUESTS
+- [Wesleys Moons](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/): Adds 39 custom moons and a custom progression system.
+- [Wesleys Interiors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/): Adds 12 custom interiors. 
+- [Wesleys Ememy Variants](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Ememy_Variants/): Adds a couple enemy variants used by custom interiors.
+- [Wesleys Weathers](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Weathers/): Adds 4 custom weather events used by Wesleys Moons.
+- [Legend Weathers](https://thunderstore.io/c/lethal-company/p/Zigzag/LegendWeathers/): Rare weathers inspired by Legend of Zelda.
+### General Content
 - [Ship Windows](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows/): Adds purchasable windows to the ship so you can see outside.
 - [Wider Ship](https://thunderstore.io/c/lethal-company/p/mborsh/Wider_Ship_Mod/): Makes the ship's interior wider, so there's more space for activities and furniture.
 - [Moved Magnet Switch](https://thunderstore.io/c/lethal-company/p/AtomicStudio/Moved_Magnet_Switch/): The Company Cruiser magnet switch is now near the front door instead of the rear.
@@ -61,18 +74,15 @@ Mods which add new features or content.
   - Keep a terminal command history (use up/down arrows)
   - Non-scrap items don't get dropped with the Teleporter/Inverse Teleporter.
 - [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/): A bunch of tweaks to different enemies, loot, and moons.
-  - Butlers have been nerfed to make them less aggressive, and the knife they drop is worth more now. Shotguns and landmines now kill them instantly, and spawn more on Manor interiors.
-  - Backwater Gunkfix health reduced from 5 to 3.
+  - Butlers have been nerfed to make them less aggressive. Shotguns and landmines now kill them instantly, and Butlers spawn more on Manor interiors.
   - Stun Grenades and Radar Boosters now force the Coil-head to enter a cooldown.
   - Cadaver Growths power level 2 -> 4, resulting in fewer and weaker other enemies to deal with.
   - Improved Barbers to spawn in groups (except in mineshafts), and fix issues with their coordination mechanics.
   - Forest Giants have reduced vision during Blizzards, and now die instantly to a Cruiser collision.
   - Jesters no longer bodyblock doorways while winding.
   - Maneaters no longer transform until someone enters the building, and make wider turns when lunging. Power Level 2 -> 3
-  - Old Birds can now see through fog.
   - Spore Lizards now have a Power Level of 0.5 (matching the Gunkfish).
   - Infestations reworked to support more enemy types (instead of only supporting Nutcrackers and Hoarding Bugs).
-  - Reduced the price of the Zap Gun.
   - Rebalanced the weight of a lot of scraps.
   - Increased the price of Tattered metal sheet.
   - Safely distance spike traps from entrances, and re-add them to mineshafts.
@@ -85,6 +95,11 @@ Mods which add new features or content.
 - [Lethal Casino Tweaks](https://thunderstore.io/c/lethal-company/p/confusingus/LethalCasinoTweaks/): Tweaks Blackjack to add card counting, and a "double-down" button.
 ### Enemies
 - [Mystery Button](https://thunderstore.io/c/lethal-company/p/Tubbbe/Mystery_Button/)
+- [Starlancer Enemy Escape](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerEnemyEscape/): Enemies have a chance to escape the facility.
+  - Every 30 seconds (configurable), the enemy may decide to try to escape (or enter if they're normally outdoor) the facility. This only succeeds sometimes.
+  - The mod comes with reasonable default odds (configurable). For example, the Bunker Spider has a 10% chance to escape (so it takes an average of 5 minutes to escape).
+  - Earth Leviathans and Jesters only have a 1% chance to move over.
+- [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/): Coil Heads are now 20% more ominous
 ### Scrap
 - [Abandoned Company Assets (Fork)](https://thunderstore.io/c/lethal-company/p/HQ_Team/abandonedcompanyassetsfork/): Adds several scrap items that are unique versions of tool items.
 ### Cosmetics
@@ -123,6 +138,7 @@ Mods which improve gameplay in various ways.
 - [Terminal Clock](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock/): Display the current time in the Terminal.
 - [LoadingTips](https://thunderstore.io/c/lethal-company/p/Enova/LoadingTips/): Display custom loading tips when loading between moons.
   - TODO: Add more tips!
+- [MainMenuVersion](https://thunderstore.io/c/lethal-company/p/mrov/MainMenuVersion/): Display a custom version number on the main menu.
 ### Terminal
 - [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/): Improved formatting for the Terminal pages.
 ### Audio
@@ -133,6 +149,7 @@ Mods which improve gameplay in various ways.
 - [Hold Scan Button](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/): Lets you hold down the scan button
 ### Multiplayer
 - [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/): Adds cause of death to the Performance Report.
+- [NoCompanyPenalties](https://thunderstore.io/c/lethal-company/p/mrov/NoCompanyPenalties/): Disables penalties for dying on the company moon because people keep trolling.
 - [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/): Reopen lobby while in orbit, and more.
 - [LobbyImprovements](https://thunderstore.io/c/lethal-company/p/Dev1A3/LobbyImprovements/): Password protected lobbies and other improvements to lobbies.
 - [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/): The stable lobby expansion mod, with a bundled cosmetic system.
@@ -179,8 +196,8 @@ Mods which improve framerates, reduce lag, or fix bugs.
 - [ReviveDesyncPatch](https://thunderstore.io/c/lethal-company/p/DaanSmoki/ReviveDesyncPatch/): Fix a rare issue where the game softlocks when playing with an increased max lobby size.
 - [Terbium](https://thunderstore.io/c/lethal-company/p/loaforc/Terbium/): Improve load times by stopping configs saving so many times.
 - [DestroyItemInSlotFix](https://thunderstore.io/c/lethal-company/p/JacobG5/DestroyItemInSlotFix/): Fix a bug in some mods which interact directly with inventory slots.
-- [LCLocalFixes](https://thunderstore.io/c/lethal-company/p/SimonTendo/LCLocalFixes/): Fixes a bunch of small and niche bugs.
-- [Scandals_Tweaks](https://thunderstore.io/c/lethal-company/p/Scandal/Scandals_Tweaks/): Adds some smaller patches that fix bugs sometimes.
+- [Scandals Tweaks](https://thunderstore.io/c/lethal-company/p/Scandal/Scandals_Tweaks/): Adds some smaller patches that fix bugs sometimes.
+- [Scandals Fixes](https://thunderstore.io/c/lethal-company/p/Scandal/Scandals_Fixes/): Additional niche fixes (like preventing playback of null audio clips)
 
 
 ## Dependency Mods
@@ -213,6 +230,16 @@ Mods which are required for other mods to run.
 - [Jacob's Lethal Libraries](https://thunderstore.io/c/lethal-company/p/JacobG5/JLL/): JacobG5's library mod.
 - [loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/): An API to replace sounds for Unity games.
 
+- [DungeonGenerationPlus](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/): Used by Wesley's Moons
+- [StarlancerAIFix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/): Used by Wesley's Moons and StarlancerEnemyEscape to fix enemy AI when an enemy is inside/outside the facility
+- [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/): Used by Wesley's Moons
+- [LCCutscene](): Used by Wesley's Moons
+- [MaterialAssetRestorerCore](): Used by Wesley's Moons
+- [WaterAssetRestorer](): Used by Wesley's Moons
+- [Moon_Day_Speed_Multiplier_Patcher](): Used by Wesley's Moons
+- [CustomStoryLogs](): Used by Wesley's Moons
+- [TerminalUtils](): Used by Wesley's Moons
+
 
 ## Removed
 Mods which are not included in the pack, with explanations.
@@ -234,6 +261,7 @@ Mods which are not included in the pack, with explanations.
 - https://thunderstore.io/c/lethal-company/p/LTGVE/VeryLateCompany/: Functionality is in LobbyControl
 - https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/: Functionality is in LobbyControl
 - https://thunderstore.io/c/lethal-company/p/BananaPuncher714/LethalQuantities/: Functionality is in LunarConfig
+- https://thunderstore.io/c/lethal-company/p/SimonTendo/LCLocalFixes/: Mod is deprecated
 - https://thunderstore.io/c/lethal-company/p/flerouwu/LC_FastStartup/: Just doesn't do anything with my combination of mods?
 - https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/: Bugs out the end screen when all players are dead.
 
