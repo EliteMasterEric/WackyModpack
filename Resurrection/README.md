@@ -6,9 +6,6 @@ NOTE: Loading tip max length is 80 characters.
 
 - [Imperium] is for testing only.
 
-## Mod ideas?
-- oil slick weather.....
-
 ## Resolved issues
 - The car detached from the ship when launching, is the magnet broken?
   - Couldn't reproduce, maybe someone disabled the magnet...
@@ -22,29 +19,27 @@ NOTE: Loading tip max length is 80 characters.
 - Some loading screen tips were too long for the box
 - Only the host can start the ship when first starting the lobby (this is fine...)
 - Jetpack controls are weird/broken
+- Teleporting Radar Booster no longer teleports a player
 ## TO FIX
-- Fix custom moons appearing in the catalog when not unlocked
-- Teleporting Radar Booster also teleports a player
 - Teleporting players that aren't the host doesn't drop their scrap
-- 70% off everything day?
 
 ## Notes
 - AsyncLogger has a config to disable logging from certain mods.
+- 69% sales are an option in Imperium
+- GeneralImprovements.ShowHiddenMoonsInCatalog AND TerminalUtils.Display Locked Moons both affect the catalogue.
 
 
 ## Gameplay
 Mods which add new features or content.
-### SPECIAL GUESTS
-- [Wesleys Moons](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/): Adds 39 custom moons and a custom progression system.
-- [Wesleys Interiors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/): Adds 12 custom interiors. 
-- [Wesleys Ememy Variants](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Ememy_Variants/): Adds a couple enemy variants used by custom interiors.
-- [Wesleys Weathers](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Weathers/): Adds 4 custom weather events used by Wesleys Moons.
+### SPECIAL GUESTS (These might get removed later)
 - [Legend Weathers](https://thunderstore.io/c/lethal-company/p/Zigzag/LegendWeathers/): Rare weathers inspired by Legend of Zelda.
+- [Needy Cats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)
+- [CodeRebirth](https://thunderstore.io/c/lethal-company/p/XuXiaolan/CodeRebirth/)
 ### General Content
+- [Blue](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Blue/): A staple of the pack.
 - [Ship Windows](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows/): Adds purchasable windows to the ship so you can see outside.
 - [Wider Ship](https://thunderstore.io/c/lethal-company/p/mborsh/Wider_Ship_Mod/): Makes the ship's interior wider, so there's more space for activities and furniture.
 - [Moved Magnet Switch](https://thunderstore.io/c/lethal-company/p/AtomicStudio/Moved_Magnet_Switch/): The Company Cruiser magnet switch is now near the front door instead of the rear.
-- [Blue](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Blue/)
 - [Fairer Fire Exits](https://thunderstore.io/c/lethal-company/p/MikuOreo/Fairer_Fire_Exits/): Alter Dungeon Generation to spawn Fire Exits further from other entrances.
 - [SmartEnemyPathfinding](https://thunderstore.io/c/lethal-company/p/Zaggy1024/SmartEnemyPathfinding/): Masked enemies can now use the Fire Exit, and can use elevators on custom moons.
 - [ScienceBird's Tweaks](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/): A bunch of smaller tweaks:
@@ -72,7 +67,6 @@ Mods which add new features or content.
   - Improve the functionality of the scanner; it is more reliable, and shows fire exits and the dropship.
   - Add the cost of travel to different moons to the moon list.
   - Keep a terminal command history (use up/down arrows)
-  - Non-scrap items don't get dropped with the Teleporter/Inverse Teleporter.
 - [ButteRyBalance](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteRyBalance/): A bunch of tweaks to different enemies, loot, and moons.
   - Butlers have been nerfed to make them less aggressive. Shotguns and landmines now kill them instantly, and Butlers spawn more on Manor interiors.
   - Stun Grenades and Radar Boosters now force the Coil-head to enter a cooldown.
@@ -229,16 +223,12 @@ Mods which are required for other mods to run.
 - [MrovLib](https://thunderstore.io/c/lethal-company/p/mrov/MrovLib/): Common methods for mods.
 - [Jacob's Lethal Libraries](https://thunderstore.io/c/lethal-company/p/JacobG5/JLL/): JacobG5's library mod.
 - [loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/): An API to replace sounds for Unity games.
-
-- [DungeonGenerationPlus](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/): Used by Wesley's Moons
-- [StarlancerAIFix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/): Used by Wesley's Moons and StarlancerEnemyEscape to fix enemy AI when an enemy is inside/outside the facility
+- [MaterialAssetRestorerCore](https://thunderstore.io/c/lethal-company/p/Sniper1_1/MaterialAssetRestorerCore/): Helps modded moon/interior devs use vanilla material assets
+- [WaterAssetRestorer](https://thunderstore.io/c/lethal-company/p/Sniper1_1/WaterAssetRestorer/): Helps modded moon/interior devs use vanilla water assets
+- [StarlancerAIFix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/): Used by StarlancerEnemyEscape to fix enemy AI when an enemy is inside/outside the facility
 - [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/): Used by Wesley's Moons
-- [LCCutscene](): Used by Wesley's Moons
-- [MaterialAssetRestorerCore](): Used by Wesley's Moons
-- [WaterAssetRestorer](): Used by Wesley's Moons
-- [Moon_Day_Speed_Multiplier_Patcher](): Used by Wesley's Moons
-- [CustomStoryLogs](): Used by Wesley's Moons
-- [TerminalUtils](): Used by Wesley's Moons
+- [Moon_Day_Speed_Multiplier_Patcher](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Moon_Day_Speed_Multiplier_Patcher/): Fixes several issues with changing the timescale per-moon.
+- [TerminalUtils](https://thunderstore.io/c/lethal-company/p/mrov/TerminalUtils/): A utility mod, used by TerminalFormatter now
 
 
 ## Removed
@@ -265,6 +255,7 @@ Mods which are not included in the pack, with explanations.
 - https://thunderstore.io/c/lethal-company/p/flerouwu/LC_FastStartup/: Just doesn't do anything with my combination of mods?
 - https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/: Bugs out the end screen when all players are dead.
 
+- https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/: BANISHED until Wesley updates for v81
 
 ## Maybe
 https://thunderstore.io/c/lethal-company/p/Crafty/LunarConfig/
