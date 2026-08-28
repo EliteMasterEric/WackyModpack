@@ -6,22 +6,16 @@ NOTE: Loading tip max length is 80 characters.
 
 - [Imperium] is for testing only.
 
-## Resolved issues
-- The car detached from the ship when launching, is the magnet broken?
-  - Couldn't reproduce, maybe someone disabled the magnet...
-- Landing without taking fall damage spits out a warning in the console.
-- Players can send blank messages in chat (whatever, the mod that tried to fix this doesn't work)
-- You have to manually detach from the ladder on Experimentation (this one is just vanilla?)
-- The fire exit kept getting blocked on Vow (is this related to Blue?) 
-  - couldn't reproduce after multiple tries?
-- Loot bugs were unusually aggressive 
-  - might need to look into this more
-- Some loading screen tips were too long for the box
-- Only the host can start the ship when first starting the lobby (this is fine...)
-- Jetpack controls are weird/broken
-- Teleporting Radar Booster no longer teleports a player
-## TO FIX
+
+## Known Issues
 - Teleporting players that aren't the host doesn't drop their scrap
+- Bug where people couldn't interact with stuff?
+
+
+## To Do
+- Whitelist Blue to vanilla moons
+- See scrap values in inventory?
+
 
 ## Notes
 - AsyncLogger has a config to disable logging from certain mods.
@@ -31,16 +25,15 @@ NOTE: Loading tip max length is 80 characters.
 
 ## Gameplay
 Mods which add new features or content.
-### SPECIAL GUESTS (These might get removed later)
-- [Legend Weathers](https://thunderstore.io/c/lethal-company/p/Zigzag/LegendWeathers/): Rare weathers inspired by Legend of Zelda.
-- [Needy Cats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)
-- [CodeRebirth](https://thunderstore.io/c/lethal-company/p/XuXiaolan/CodeRebirth/)
+- The pack has 44 new suits (some of them are duplicates but I don't know how to fix that).
 ### General Content
 - [Blue](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Blue/): A staple of the pack.
 - [Ship Windows](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows/): Adds purchasable windows to the ship so you can see outside.
 - [Wider Ship](https://thunderstore.io/c/lethal-company/p/mborsh/Wider_Ship_Mod/): Makes the ship's interior wider, so there's more space for activities and furniture.
 - [Moved Magnet Switch](https://thunderstore.io/c/lethal-company/p/AtomicStudio/Moved_Magnet_Switch/): The Company Cruiser magnet switch is now near the front door instead of the rear.
 - [Fairer Fire Exits](https://thunderstore.io/c/lethal-company/p/MikuOreo/Fairer_Fire_Exits/): Alter Dungeon Generation to spawn Fire Exits further from other entrances.
+- [BetterSprayPaint](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/): More responsive painting, longer range, more capacity (not infinite), quieter sounds, ability to control color and brush size.
+- [Self Sorting Storage](https://thunderstore.io/c/lethal-company/p/Zigzag/SelfSortingStorage/): A shelf that automatically sorts the items you put in it.
 - [SmartEnemyPathfinding](https://thunderstore.io/c/lethal-company/p/Zaggy1024/SmartEnemyPathfinding/): Masked enemies can now use the Fire Exit, and can use elevators on custom moons.
 - [ScienceBird's Tweaks](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/): A bunch of smaller tweaks:
   - Improved collision on a bunch of stuff, like the catwalk and the starting lever.
@@ -88,19 +81,37 @@ Mods which add new features or content.
 - [Lethal Casino ATM Fix](https://thunderstore.io/c/lethal-company/p/Azx/LethalCasinoAtmFix/): Fix a bug with the ATM and exact values.
 - [Lethal Casino Tweaks](https://thunderstore.io/c/lethal-company/p/confusingus/LethalCasinoTweaks/): Tweaks Blackjack to add card counting, and a "double-down" button.
 ### Enemies
+- [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/): Changes the chitter SFX of the Hoarding Bug to the yippee-tbh sound
+- [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/): Coil Heads are now 20% more ominous.
+- [Light Eater](https://thunderstore.io/c/lethal-company/p/Lega/LightEater/): A unique new enemy with custom effects.
 - [Mystery Button](https://thunderstore.io/c/lethal-company/p/Tubbbe/Mystery_Button/)
 - [Starlancer Enemy Escape](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerEnemyEscape/): Enemies have a chance to escape the facility.
   - Every 30 seconds (configurable), the enemy may decide to try to escape (or enter if they're normally outdoor) the facility. This only succeeds sometimes.
   - The mod comes with reasonable default odds (configurable). For example, the Bunker Spider has a 10% chance to escape (so it takes an average of 5 minutes to escape).
   - Earth Leviathans and Jesters only have a 1% chance to move over.
-- [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/): Coil Heads are now 20% more ominous
+### Moons
+- [Generic Moons](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Moons/): 18 custom moons by GenericGMD
+- [Distinct Moon Variety](https://thunderstore.io/c/lethal-company/p/DistinctBlaze/DistinctMoonVariety/): 4 custom moons
 ### Scrap
 - [Abandoned Company Assets (Fork)](https://thunderstore.io/c/lethal-company/p/HQ_Team/abandonedcompanyassetsfork/): Adds several scrap items that are unique versions of tool items.
+- [Cirno Fumo Scrap](https://thunderstore.io/c/lethal-company/p/Badham_Mods/CirnoFumoScrap/): Funny little ice fairy. Funky!
+- [Generic Scraps](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Scraps/): 22 vanilla-friendly scrap items
+- [Lethal Trading Cards](https://thunderstore.io/c/lethal-company/p/ModusInteractive/Lethal_Trading_Cards/): Booster packs that contain trading cards.
+- [Monster Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/): A bunch of new plushie scraps that look like vanilla monsters.
+- [Needy Cats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/): Kitties to find and rescue!
+- [Scavenger Plushie](https://thunderstore.io/c/lethal-company/p/Scintesto/Scavenger_Plushie/): A plushie that looks like the Lethal Company guy.
+- [Terras Scrap](https://thunderstore.io/c/lethal-company/p/Terraformer9x/TerrasScrap/): A collection of Zeekers styled scrap.
+### Weathers
+- [Legend Weathers](https://thunderstore.io/c/lethal-company/p/Zigzag/LegendWeathers/): Rare weathers inspired by Legend of Zelda.
 ### Cosmetics
-- [MoreSuits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/): Adds more suits, and functionality to make adding suits easier.
-- [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/): Adds pages to the suit rack.
-- [LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/): Unlock the base game suits by default.
 - [Doms Basic Suit Colors](https://thunderstore.io/c/lethal-company/p/404_Dom/Doms_Basic_Suit_Colors/): Adds 15 basic colored suits.
+- [Fashion Company](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company/): Adds a bunch of unique new suits.
+- [Fashionable Company](https://thunderstore.io/c/lethal-company/p/Smxrez/FashionableCompany/): 20 new vanilla-style cosmetics for the MoreCompany menu.
+- [Lethal Fashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/): Unlock the base game suits by default.
+- [More Vanilla Suits](https://thunderstore.io/c/lethal-company/p/AlmostAurora/More_Vanilla_Suits/): New vanilla-style suits.
+- [MoreSuits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/): Adds more suits, and functionality to make adding suits easier.
+- [Simple Company](https://thunderstore.io/c/lethal-company/p/Smxrez/SimpleCompany/): 21 new vanilla-style cosmetics for the MoreCompany menu.
+- [Too Many Suits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/): Adds pages to the suit rack.
 
 
 ## Quality of Life
@@ -120,7 +131,7 @@ Mods which improve gameplay in various ways.
   - Hide the HUD while in the terminal.
   - Change the texture of the Toy Cube because the default one has an arrangement of cubes that isn't actually solvable in real life. Yes this matters.
 - [Celestial Tint](https://thunderstore.io/c/lethal-company/p/sfDesat/Celestial_Tint/): Adds a new view while in orbit. Goes great with ShipWindows.
-- [NoMoreCompanyLogo](https://thunderstore.io/c/lethal-company/p/DaXcess/NoMoreCompanyLogo): Switch the logo back to Lethal Company from More Company
+- [NoMoreCompanyLogo](https://thunderstore.io/c/lethal-company/p/DaXcess/NoMoreCompanyLogo): More Company changes the logo so this mod switches it back.
 - [NiceChat](https://thunderstore.io/c/lethal-company/p/taffyko/NiceChat/): Improved the in-game text chat with spectator chat, longer messages, scrolling chat area, and more.
   - When both you and the sender of a message are holding an active walkie-talkie, the name is color-coded green. This is to clarify a vanilla feature where any players holding active walkies can hear each other's messages at any distance.
 - [NiceChatEmptyMessageFix](https://thunderstore.io/c/lethal-company/p/demi_hitsuji/NiceChatEmptyMessageFix/): Prevent sending blank messages with NiceChat.
@@ -133,6 +144,7 @@ Mods which improve gameplay in various ways.
 - [LoadingTips](https://thunderstore.io/c/lethal-company/p/Enova/LoadingTips/): Display custom loading tips when loading between moons.
   - TODO: Add more tips!
 - [MainMenuVersion](https://thunderstore.io/c/lethal-company/p/mrov/MainMenuVersion/): Display a custom version number on the main menu.
+- [ShowCapacity](https://thunderstore.io/c/lethal-company/p/Piggy/ShowCapacity/): Show the remaining capacity of the spraycan overlayed on the stamina meter.
 ### Terminal
 - [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/): Improved formatting for the Terminal pages.
 ### Audio
@@ -154,40 +166,41 @@ Mods which improve gameplay in various ways.
 ## Performance/Bugfix
 Mods which improve framerates, reduce lag, or fix bugs.
 - [RoundManagerObjectReferenceFix](https://thunderstore.io/c/lethal-company/p/347956/RoundManagerObjectReferenceFix/): Circumvent crashes when a custom moon attempts to initialize an unresolved prefab.
-- [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/): Move log processing to its own thread to improve performance.
-- [BarberFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/BarberFixes/): Fix issues with the Barber's AI that cause them to freeze in place.
+- [Apparatus Fix](https://thunderstore.io/c/lethal-company/p/mrov/ApparatusFix/): A small mod for fixing Apparatus sound desyncs.
+- [Async Loggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/): Move log processing to its own thread to improve performance.
+- [Barber Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/BarberFixes/): Fix issues with the Barber's AI that cause them to freeze in place.
 - [BepInEx Faster Load AssetBundles Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/): Decompress asset bundles before loading, reducing load times and improving RAM usage especially on repeat launches.
 - [BepInEx MonoMod Debug Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_MonoMod_Debug_Patcher/): Improves the exception logs when a mod has patched the offending method.
-- [ButteryFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/): A bunch of fixes to item conductivity, animations, typos, and more.
+- [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/): A bunch of fixes to item conductivity, animations, typos, and more.
   - The performance report now displays the correct interior scrap count.
-- [ChuxiaFixes](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/ChuxiaFixes/): Disables the built-in network analyzer, improving performance.
-- [CleanerLogs](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CleanerLogs/): Reduce the base game log level to reduce log spam.
-- [CullFactory](https://thunderstore.io/c/lethal-company/p/fumiko/CullFactory/): Implements portal occlusion culling inside the facility to hide objects that aren't in view, greatly improving render performance.
+- [Chuxia Fixes](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/ChuxiaFixes/): Disables the built-in network analyzer, improving performance.
+- [Cleaner Logs](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CleanerLogs/): Reduce the base game log level to reduce log spam.
+- [Cull Factory](https://thunderstore.io/c/lethal-company/p/fumiko/CullFactory/): Implements portal occlusion culling inside the facility to hide objects that aren't in view, greatly improving render performance.
 - [DunGenReferenceFixer](https://thunderstore.io/c/lethal-company/p/Zaggy1024/DunGenReferenceFixer/): Fixes interior assets' references if they haven't been updated to v80.
-- [EnemySoundFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/): Fix a bunch of missing audio, incorrect SFX, and incorrect volume.
+- [Enemy Sound Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/): Fix a bunch of missing audio, incorrect SFX, and incorrect volume.
 - [EntranceTeleportOptimizations](https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/): Greatly optimizes the teleporters for the Entrance Door and Fire Exits, and fixes bugs related to them.
-- [FontUpdate](https://thunderstore.io/c/lethal-company/p/rectorado/FontUpdate/): Patches the game's font to include an expanded Latin character set.
+- [Font Update](https://thunderstore.io/c/lethal-company/p/rectorado/FontUpdate/): Patches the game's font to include an expanded Latin character set.
 - [HarmonyXTranspilerFix](https://thunderstore.io/c/lethal-company/p/DiFFoZ/HarmonyXTranspilerFix/): Fix a niche issue with the Harmony transpiler patches.
-- [JetpackFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/JetpackFixes/): Fix issues with the Jetpack
+- [Jetpack Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/JetpackFixes/): Fix issues with the Jetpack
 - [LCMaxSoundsFix](https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/) Increase the maximum number of concurrent sounds, resolving issues where footsteps wouldn't play.
 - [LethalFixes](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes/): Fixes for log spam caused by Dissonance, as wel as fixes for terminal scanning.
 - [LethalError](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/LethalError/): Improved error messages when failing to join a server.
 - [LethalPerformance](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/): Optimizes the game by caching frequently searchable components
 - [LethalSponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/): Fixes input lag, fixes for memory leaks, culling for scrap, more graphics options. Includes a logging tool to narrow down performance issues.
   - This used to rewrite the game's main shader but that's part of base game now cool.
-- [LostEnemyFix](https://thunderstore.io/c/lethal-company/p/JacobG5/LostEnemyFix/): Kills enemies if the game fails to locate a navmesh near them, preventing error spam. Also logs info about the enemy and its position.
-- [MaskFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/): Fix issues with the Masked Player, including Masked immediately grabbing players as they enter the building.
+- [Lost Enemy Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/LostEnemyFix/): Kills enemies if the game fails to locate a navmesh near them, preventing error spam. Also logs info about the enemy and its position.
+- [Mask Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/): Fix issues with the Masked Player, including Masked immediately grabbing players as they enter the building.
 - [Matty Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/): Fix issues with objects clipping, prevent items falling below the ship or spawning in furniture,
-- [MeleeFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MeleeFixes/): Fix issues with melee weapons, preventing lag, fixing false hit effects on misses, and fixing shovels becoming unusable if the player died while attacking.
-- [NestFix](https://thunderstore.io/c/lethal-company/p/PureFPSZac/NestFix/): Fix Baboon Hawk nests spawning on ledges or inside walls.
-- [PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/): Move entity pathfinding to another thread, resulting in more consistent framerates.
-- [SpawnCycleFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/SpawnCycleFixes/): Fixes various bugs with the enemy spawn cycle. Other mods can now spawn multiple enemies in groups!
-- [SpiderPositionFix](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/): Fix various issues with spiders getting stuck on obstacles, getting desynced with the mesh, and failing to climb walls.
+- [Melee Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MeleeFixes/): Fix issues with melee weapons, preventing lag, fixing false hit effects on misses, and fixing shovels becoming unusable if the player died while attacking.
+- [Nest Fix](https://thunderstore.io/c/lethal-company/p/PureFPSZac/NestFix/): Fix Baboon Hawk nests spawning on ledges or inside walls.
+- [Pathfinding Lag Fix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/): Move entity pathfinding to another thread, resulting in more consistent framerates.
+- [Spawn Cycle Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/SpawnCycleFixes/): Fixes various bugs with the enemy spawn cycle. Other mods can now spawn multiple enemies in groups!
+- [Spider Position Fix](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/): Fix various issues with spiders getting stuck on obstacles, getting desynced with the mesh, and failing to climb walls.
 - [TypeLoadExceptionFixer](https://thunderstore.io/c/lethal-company/p/Hamunii/TypeLoadExceptionFixer/): Fixes Unity's Input system initialization exploding if there are unloadable types
-- [TerminalConflictFix](https://thunderstore.io/c/lethal-company/p/SylviBlossom/TerminalConflictFix/): Fix issues with certain terminal commands conflicting when they match closely.
+- [Terminal Conflict Fix](https://thunderstore.io/c/lethal-company/p/SylviBlossom/TerminalConflictFix/): Fix issues with certain terminal commands conflicting when they match closely.
 - [ReXuvination](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/): Optimize enemy collision detection for greatly improved performance.
-- [WeedKillerFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/WeedKillerFixes/): Fix issues with cooldown on adding Turbo to the curiser, and fixing lag when spraying.
-- [ReviveDesyncPatch](https://thunderstore.io/c/lethal-company/p/DaanSmoki/ReviveDesyncPatch/): Fix a rare issue where the game softlocks when playing with an increased max lobby size.
+- [Weed Killer Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/WeedKillerFixes/): Fix issues with cooldown on adding Turbo to the curiser, and fixing lag when spraying.
+- [Revive Desync Patch](https://thunderstore.io/c/lethal-company/p/DaanSmoki/ReviveDesyncPatch/): Fix a rare issue where the game softlocks when playing with an increased max lobby size.
 - [Terbium](https://thunderstore.io/c/lethal-company/p/loaforc/Terbium/): Improve load times by stopping configs saving so many times.
 - [DestroyItemInSlotFix](https://thunderstore.io/c/lethal-company/p/JacobG5/DestroyItemInSlotFix/): Fix a bug in some mods which interact directly with inventory slots.
 - [Scandals Tweaks](https://thunderstore.io/c/lethal-company/p/Scandal/Scandals_Tweaks/): Adds some smaller patches that fix bugs sometimes.
@@ -198,37 +211,39 @@ Mods which improve framerates, reduce lag, or fix bugs.
 Mods which are required for other mods to run.
 - [AutoHookGenPatcher](https://thunderstore.io/c/lethal-company/p/Hamunii/AutoHookGenPatcher/): Automatically generates MonoMod.RuntimeDetour.HookGen's MMHOOK files during the BepInEx preloader phase.
 - [BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/): The Unity modloader. Required by all mods.
-- [DawnLib](https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/): Modern API for Lethal Company custom content.
+- [CSync](https://thunderstore.io/c/lethal-company/p/Sigurd/CSync/): Configuration file syncing library for BepInEx.
 - [DetourContext Dispose Fix](https://thunderstore.io/c/lethal-company/p/Hamunii/DetourContext_Dispose_Fix/): A BepInEx patcher to fix MonoMod.RuntimeDetour's DetourContext.Dispose not working.
+- [DawnLib](https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/): Modern API for Lethal Company custom content.
 - [FixPluginTypesSerialization](https://thunderstore.io/c/lethal-company/p/Evaisa/FixPluginTypesSerialization/): This solve a bug where custom Serializable structs and such stored in plugin assemblies are not properly getting deserialized by the engine.
 - [HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/): Generates MonoMod.RuntimeDetour.HookGen's MMHOOK files during the BepInEx preloader phase.
 - [Interactive Terminal API](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Interactive_Terminal_API/): Classes for making custom interfaces in the terminal.
+- [Jacob's Lethal Libraries](https://thunderstore.io/c/lethal-company/p/JacobG5/JLL/): JacobG5's library mod.
+- [LegaFusionCore](https://thunderstore.io/c/lethal-company/p/Lega/LegaFusionCore/): A dependency for LightEater
+- [Lethal Status](https://thunderstore.io/c/lethal-company/p/Lega/LethalStatus/): A dependency for LightEater, adds support for new status effects
+- [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/): API/Library for creating Unity InputActions with in-game re-binding support
+- [Lethal Level Loader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/): Used by Wesley's Moons
+- [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/): Evaisa's modding tools for Lethal Company.
 - [LethalModDataLib](https://thunderstore.io/c/lethal-company/p/MaxWasUnavailable/LethalModDataLib/): A library for Lethal Company, providing a standardised way to save and load modded data.
-- [LethalNetworkAPI](https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/): A library/API to allow developers to easily add networking to their mods.
+- [Lethal Network API](https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/): A library/API to allow developers to easily add networking to their mods.
+- [loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/): An API to replace sounds for Unity games.
+- [ManuLib](https://thunderstore.io/c/lethal-company/p/Generic_GMD/ManuLib/): "Wonderous doohickeys" for Generic's Moons
+- [MaterialAssetRestorerCore](https://thunderstore.io/c/lethal-company/p/Sniper1_1/MaterialAssetRestorerCore/): Helps modded moon/interior devs use vanilla material assets
+- [ModelReplacementAPI](https://thunderstore.io/c/lethal-company/p/BunyaPineTree/ModelReplacementAPI/): API to simplify replacement of player models and other models.
 - [MonkeyInjectionLibrary](https://thunderstore.io/c/lethal-company/p/mattymatty/MonkeyInjectionLibrary/): This library provides an interface-based monkey-patching system for Unity games.
 - [MonoDetour BepInEx 5](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour_BepInEx_5/): Adds support for MonoDetour for BepInEx 5.
 - [MonoDetour](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour/): MonoDetour is an alternative to HarmonyX or MonoMod.RuntimeDetour for detouring.
+- [MrovLib](https://thunderstore.io/c/lethal-company/p/mrov/MrovLib/): Common methods for mods.
 - [OdinSerializer](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/): Fast, robust, powerful and extendible .NET serializer built for Unity
 - [PathfindingLib](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/): Processes AI pathfinding in another thread. Required by `PathfindingLagFix`.
-- [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/): API/Library for creating Unity InputActions with in-game re-binding support
+- [Starlancer AI Fix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/): Used by StarlancerEnemyEscape to fix enemy AI when an enemy is inside/outside the facility
 - [StaticNetcodeLib](thunderstore.io/c/lethal-company/p/xilophor/StaticNetcodeLib/): This lib allows BepInEx mods to use Netcode for GameObjects in a static context.
-- [TerraMesh](https://thunderstore.io/c/lethal-company/p/v0xx/TerraMesh/): An API for terrain to mesh conversion and mesh manipulation
 - [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)
-- [TestAccountCore](https://thunderstore.io/c/lethal-company/p/TestAccount666/TestAccountCore/): Library mod made by TestAccount666.
-- [CSync](https://thunderstore.io/c/lethal-company/p/Sigurd/CSync/): Configuration file syncing library for BepInEx.
-- [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/): Evaisa's modding tools for Lethal Company.
-- [VertexLibrary](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/VertexLibrary/): Provides extension methods for obtaining the oriented bounding box (OBB) of Unity objects.
-- [WeatherRegistry](https://thunderstore.io/c/lethal-company/p/mrov/WeatherRegistry/): A library mod to control the weather system and add new weather effects.
-  - Use `weather forecast <moon>` to view moon weather probabilities.
-- [MrovLib](https://thunderstore.io/c/lethal-company/p/mrov/MrovLib/): Common methods for mods.
-- [Jacob's Lethal Libraries](https://thunderstore.io/c/lethal-company/p/JacobG5/JLL/): JacobG5's library mod.
-- [loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/): An API to replace sounds for Unity games.
-- [MaterialAssetRestorerCore](https://thunderstore.io/c/lethal-company/p/Sniper1_1/MaterialAssetRestorerCore/): Helps modded moon/interior devs use vanilla material assets
-- [WaterAssetRestorer](https://thunderstore.io/c/lethal-company/p/Sniper1_1/WaterAssetRestorer/): Helps modded moon/interior devs use vanilla water assets
-- [StarlancerAIFix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/): Used by StarlancerEnemyEscape to fix enemy AI when an enemy is inside/outside the facility
-- [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/): Used by Wesley's Moons
-- [Moon_Day_Speed_Multiplier_Patcher](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Moon_Day_Speed_Multiplier_Patcher/): Fixes several issues with changing the timescale per-moon.
 - [TerminalUtils](https://thunderstore.io/c/lethal-company/p/mrov/TerminalUtils/): A utility mod, used by TerminalFormatter now
+- [TerraMesh](https://thunderstore.io/c/lethal-company/p/v0xx/TerraMesh/): An API for terrain to mesh conversion and mesh manipulation
+- [TestAccountCore](https://thunderstore.io/c/lethal-company/p/TestAccount666/TestAccountCore/): Library mod made by TestAccount666.
+- [VertexLibrary](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/VertexLibrary/): Provides extension methods for obtaining the oriented bounding box (OBB) of Unity objects.
+- [WaterAssetRestorer](https://thunderstore.io/c/lethal-company/p/Sniper1_1/WaterAssetRestorer/): Helps modded moon/interior devs use vanilla water assets
+- [WeatherRegistry](https://thunderstore.io/c/lethal-company/p/mrov/WeatherRegistry/): A library mod to control the weather system and add new weather effects. Use `weather forecast <moon>` to view moon weather probabilities.
 
 
 ## Removed
@@ -243,6 +258,7 @@ Mods which are not included in the pack, with explanations.
 - https://thunderstore.io/c/lethal-company/p/GoldenGuy1000/Align_Menu_Buttons/: Functionality is in Dev1A3's LethalFixes
 - https://thunderstore.io/c/lethal-company/p/Glitch/NoPropShadows/: Functionality is in Dev1A3's LethalFixes
 - https://thunderstore.io/c/lethal-company/p/Glitch/RankFix/: Functionality is in Dev1A3's LethalFixes
+- https://thunderstore.io/c/lethal-company/p/WhiteSpike/Moon_Day_Speed_Multiplier_Patcher/: Functionality is in LethalLevelLoader
 - https://thunderstore.io/c/lethal-company/p/MassiveNewCoilers/FixCentipedeLag/: Functionality is in PathfindingLagFix
 - https://thunderstore.io/c/lethal-company/p/ViViKo/ItemClippingFix/: Functionality is in Matty Fixes
 - https://thunderstore.io/c/lethal-company/p/Rocksnotch/CupboardFix/: Functionality is in Matty Fixes
@@ -254,6 +270,8 @@ Mods which are not included in the pack, with explanations.
 - https://thunderstore.io/c/lethal-company/p/SimonTendo/LCLocalFixes/: Mod is deprecated
 - https://thunderstore.io/c/lethal-company/p/flerouwu/LC_FastStartup/: Just doesn't do anything with my combination of mods?
 - https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/: Bugs out the end screen when all players are dead.
+
+- https://thunderstore.io/c/lethal-company/p/AtomicStudio/Atomics_Cosmetics/: Cosmetic mod with too many vanilla unfriendly cosmetics.
 
 - https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/: BANISHED until Wesley updates for v81
 

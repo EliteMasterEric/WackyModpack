@@ -1,6 +1,6 @@
 {
   "name": "WackyModpack_Resurrection",
-  "version_number": "81.2.0",
+  "version_number": "81.3.0",
   "website_url": "https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyModpack_Resurrection/",
   "description": "EliteMasterEric's curated modpack for Lethal Company.",
   "dependencies": [
@@ -114,7 +114,6 @@
     "confusingus-LethalCasinoTweaks-2.0.1",
     "debit_card_debit-UniqueItemSounds-0.2.3",
     "fumiko-CullFactory-2.0.11",
-    "giosuel-Imperium-1.3.0",
     "lethal_coder-Casino_v81_Patch-1.0.0",
     "loaforc-Terbium-0.0.4",
     "loaforc-loaforcsSoundAPI-2.0.13",
@@ -134,7 +133,6 @@
     "mrov-TerminalUtils-0.0.16",
     "mrov-WeatherRegistry-0.8.8",
     "notnotnotswipez-MoreCompany-1.14.0",
-    "pacoito-itolib-0.9.3",
     "rectorado-FontUpdate-0.8.2",
     "sfDesat-Celestial_Tint-1.5.3",
     "sunnobunno-YippeeMod-1.2.4",

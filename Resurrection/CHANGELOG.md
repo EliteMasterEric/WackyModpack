@@ -1,3 +1,44 @@
+# Version 81.3.0
+Okay I experimented with content mods and ended up redoing a bunch of stuff. Wesley's and CodeRebirth are removed, in their place are a bunch more standard 
+## Added
+- Added the following mods which add new moons:
+    - Generic Moons (by GenericGMD) adds 18 moons
+    - Distinct Moon Variety adds 4 moons
+- Added the following mods which add new items:
+    - Cirno Fumo Scrap
+    - Generic Scraps
+    - Lethal Trading Cards
+    - Monster Plushies
+    - Scavenger Plushie
+- Added the following mods which add new enemies:
+    - Light Eater
+- Added the following mods which add new suits:
+    - More Vanilla Suits 
+    - Fashion Company
+- Added the following mods which add new cosmetics to the MoreCompany menu:
+    - FashionableCompany
+    - SimpleCompany
+- Added the following quality of life mods:
+    - BetterSprayPaint
+    - ShowCapacity
+- Added the following performance and bugfix mods:
+    - ApparatusFix
+- Added the following library mods:
+    - ModelReplacementAPI
+    - LethalStatus
+    - LegaFusionCore
+    - ManuLib
+## Changed
+- Updated some mods to the latest patch.
+- LoadingScreen (before the game fully starts) now displays a custom modpack graphic.
+## Removed
+- Removed the Wesley's Moons set of mods (they aren't fully updated for v80).
+    - This includes its dependencies, except for StarlancerAIFix (which is needed by EnemyEscape which is still in the pack).
+- Removed several other mods:
+    - CodeRebirth (playtesters found its additions overwhelming)
+    - Moon_Day_Speed_Multiplier_Patcher (now part of LethalLevelLoader)
+
+
 # Version 81.2.0
 ## Added
 - Added a total of 16 new mods!
@@ -6,6 +47,7 @@
     - Wesleys Interiors (twelve new interiors used by Wesleys Moons)
     - Wesleys Ememy Variants (variants of enemies used by Wesleys Moons)
     - Wesleys Weathers (four new weathers used by Wesleys Moons)
+    - CodeRebirth (new mechanics, new enemies, new recruitable robots)
 - Added the following gameplay mods:
     - StarlancerEnemyEscape (enemies have a chance to escape the facility)
 - Added the following quality-of-life mods:
