@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="en" />
+    </tags>
+    <strings>
+        <!--
+            Translation Notes:
+            This is the default localization file for Coroner.
+            
+            By default, any of the `FunnyNote` or `Death` strings are dynamically chosen at random.
+            If the `SeriousDeathMessages` option is enabled, the first `Death` message found in the file is used,
+                so make this one literal and specific.
+            The other ones can be puns or jokes, and options can be added or removed as needed, just make sure
+                to keep the correct tags, and make sure that there is at least one message for each `Death` type.
+        -->
+
+        <!-- TN: Killed by The Aloe. -->
+        <DeathEnemyAloeSlap text="Slapped by The Aloe." /> <!-- TN: Aloe usually slaps after being damaged. -->
+        
+        <DeathEnemyAloeCrush text="CRUSHED! by The Aloe." /> <!-- TN: Occurs after the player tries to escape the kidnapping. --> 
+        
+        <DeathEnemyAloeBludgeon text="Killed by The Aloe." /> <!-- TN: This is rarely used. Currently can happen if DamageInsteadOfHeal is set to true (false by default) and the player is kidnapped. -->
+        
+        <!-- TN: Killed by Ogopogo -->
+        <DeathEnemyOgopogoGravity text="Thrown to their death by Ogopogo" /> <!-- TN: Player is killed by gravity after being hit by Ogopogo -->
+
+        <DeathEnemyOgopogoDrowned text="Drowned by Ogopogo" /> <!-- TN: Player is killed by drowning after being grabbed by Ogopogo -->
+
+        <!-- TN: Killed by Vermin (created by Ogopogo) -->
+        <DeathEnemyVermin text="Killed by Vermin." />
+        <DeathEnemyVermin text="Fed to the Ogopogo's young." />
+
+        <!-- TN: Killed by Coil Crab explosions. -->
+        <DeathEnemyCoilCrabExplosion text="Exploded by a Coil Crab." />
+        
+        <!-- TN: Killed by the Prototax spore cloud -->
+        <DeathEnemyPrototax text="Poisoned by a Prototax."/>
+        
+    </strings>
+</base>

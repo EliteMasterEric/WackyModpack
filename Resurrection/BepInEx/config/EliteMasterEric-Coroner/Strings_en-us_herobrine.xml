@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="en" />
+    </tags>
+    <strings>
+        <!--
+            Translation Notes:
+            This is the default localization file for Coroner.
+            
+            By default, any of the `FunnyNote` or `Death` strings are dynamically chosen at random.
+            If the `SeriousDeathMessages` option is enabled, the first `Death` message found in the file is used,
+                so make this one literal and specific.
+            The other ones can be puns or jokes, and options can be added or removed as needed, just make sure
+                to keep the correct tags, and make sure that there is at least one message for each `Death` type.
+        -->
+
+        <!-- TN: Killed by Herobrine. -->
+        <DeathEnemyHerobrine text="Killed by Herobrine." />
+        <DeathEnemyHerobrine text="Killed by ?????????" />
+        <DeathEnemyHerobrine text="Was haunted." />
+        <DeathEnemyHerobrine text="Went up in flames." /> <!-- TN: A Death Message from Minecraft. -->
+        <DeathEnemyHerobrine text="Died." /> <!-- TN: A Death Message from Minecraft. -->
+        <DeathEnemyHerobrine text="Was slain by Herobrine." /> <!-- TN: A Death Message from Minecraft. -->
+        <DeathEnemyHerobrine text="Was slain by ?????????" /> <!-- TN: A Death Message from Minecraft. -->
+        <DeathEnemyHerobrine text="Burned to death." /> <!-- TN: A Death Message from Minecraft. -->
+        <DeathEnemyHerobrine text="Was fireballed by ?????????" /> <!-- TN: A Death Message from Minecraft. -->
+        <DeathEnemyHerobrine text="Fell out of the world." /> <!-- TN: A Death Message from Minecraft. -->
+        
+        <!-- TN: Exploded by Herobrine. -->
+        <DeathEnemyHerobrineExplode text="Exploded by Herobrine." />
+        <DeathEnemyHerobrineExplode text="Exploded by ?????????" />
+        <DeathEnemyHerobrineExplode text="Died in a blocky explosion." />
+        <DeathEnemyHerobrineExplode text="Creeper? Aw man." />
+        <DeathEnemyHerobrineExplode text="Blew up." /> <!-- TN: A Death Message from Minecraft. -->
+        <DeathEnemyHerobrineExplode text="Was blown up by Herobrine." /> <!-- TN: A Death Message from Minecraft. -->
+        <DeathEnemyHerobrineExplode text="Was blown up by ?????????" /> <!-- TN: A Death Message from Minecraft. -->
+    </strings>
+</base>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="en" />
+    </tags>
+    <strings>
+        <!--
+            Translation Notes:
+            This is the default localization file for Coroner.
+            
+            By default, any of the `FunnyNote` or `Death` strings are dynamically chosen at random.
+            If the `SeriousDeathMessages` option is enabled, the first `Death` message found in the file is used,
+                so make this one literal and specific.
+            The other ones can be puns or jokes, and options can be added or removed as needed, just make sure
+                to keep the correct tags, and make sure that there is at least one message for each `Death` type.
+        -->
+
+        <!-- TN: Killed by LethalDoors closing on them. -->
+        <DeathLethalNuke text="Atomized by a nuclear bomb." />
+        <DeathLethalNuke text="Atomized." />
+        <DeathLethalNuke text="Should have taken better care when handling a nuclear bomb." />
+        <DeathLethalNuke text="Nuked." />
+        <DeathLethalNuke text="Probably a ghoul by now." />
+        <DeathLethalNuke text="Ate a Fat Man." /> <!-- TN: Fat Man like the nuke -->
+        <DeathLethalNuke text="Mishandled the Tsar Bomba." />
+        <DeathLethalNuke text="Doomed along with every piece of flora and fauna on the planet." />
+        <DeathLethalNuke text="Reduced to atoms." />
+        <DeathLethalNuke text="Wanted to live out their fantasy of Fallout." />
+        <DeathLethalNuke text="Realised the mushroom cloud was bigger than their thumb." />
+        <DeathLethalNuke text="Became part of a mushroom cloud." />
+        <DeathLethalNuke text="Witnessed hydrogen fusion first hand." />
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+
+
+    </strings>
+</base>

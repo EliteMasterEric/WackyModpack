@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="en" />
+    </tags>
+    <strings>
+        <!--
+            Translation Notes:
+            This is the default localization file for Coroner.
+            
+            By default, any of the `FunnyNote` or `Death` strings are dynamically chosen at random.
+            If the `SeriousDeathMessages` option is enabled, the first `Death` message found in the file is used,
+                so make this one literal and specific.
+            The other ones can be puns or jokes, and options can be added or removed as needed, just make sure
+                to keep the correct tags, and make sure that there is at least one message for each `Death` type.
+        -->
+
+        <!-- TN: Died if not dancing when being asked to dance with the Dance Note. -->
+        <DeathItemDanceNote text="Did not dance when asked." />
+        <DeathItemDanceNote text="Exploded while dancing." />
+        <DeathItemDanceNote text="Did not go disco mode..." />
+        <DeathItemDanceNote text="This one's innards are stepping on the dance floor." />
+        
+        <!-- TN: Killed when a player selects your name in the Death Note. -->
+        <DeathItemDeathNote text="Got selected in the Death Note." />
+        <DeathItemDeathNote text="This one's name was written in the book of death." />
+        <DeathItemDeathNote text="Killed by someone using the power of death." />
+        
+        <!-- TN: When the player is teleported to someone by an Emergency Meeting then dies shortly after. -->
+        <DeathItemEmergencyMeeting text="Was called by a crewmate and died." />
+        <DeathItemEmergencyMeeting text="The reported dead body was yours." />
+        <DeathItemEmergencyMeeting text="Was killed by the imposter during the meeting." />
+        
+        <!-- TN: Died when using Freddy Fazbear too many times. -->
+        <DeathItemFreddyFazbear text="Was killed by Freddy Fazbear." />
+        <DeathItemFreddyFazbear text="The bear got a bit quirky." />
+        
+        <!-- TN: When the Nokia hits the ground near a player a low health. -->
+        <DeathItemNokia text="Got hit pretty hard by a Nokia." />
+        <DeathItemNokia text="The Nokia was a bit too enthusiastic." />
+        <DeathItemNokia text="Nokia'd out." /> <!-- TN: Get it? -->
+        <DeathItemNokia text="Found out the legends were true about Nokia." />
+        
+        <!-- TN: Killed by Epona (Eyeless dog spawned by the Ocarina). -->
+        <DeathItemOcarinaEpona text="Eaten by Epona." />
+        <DeathItemOcarinaEpona text="Was kicked by Epona." />
+        <DeathItemOcarinaEpona text="Killed by a very strange horse." />
+        <DeathItemOcarinaEpona text="Played the wrong tune too well." />
+        
+        
+        <!-- TN: When a player is swapped with someone by an Uno Reverse Card (or Uno Reverse Card DX) and dies shortly after. -->
+        <DeathItemUnoReverse text="Died after being teleported by an Uno Reverse Card." />
+        <DeathItemUnoReverse text="Was swapped with someone and died." />
+        <DeathItemUnoReverse text="Got caught in the shuffle." />
+        <DeathItemUnoReverse text="Was reversed by a card." />
+
+    </strings>
+</base>

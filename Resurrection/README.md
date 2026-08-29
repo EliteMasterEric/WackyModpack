@@ -155,6 +155,7 @@ Mods which improve gameplay in various ways.
 - [Hold Scan Button](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/): Lets you hold down the scan button
 ### Multiplayer
 - [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/): Adds cause of death to the Performance Report.
+- [CoronerIntegrations](https://thunderstore.io/c/lethal-company/p/Turkeysteaks/CoronerIntegrations/): Adds additional support for multiple mods to Coroner.
 - [NoCompanyPenalties](https://thunderstore.io/c/lethal-company/p/mrov/NoCompanyPenalties/): Disables penalties for dying on the company moon because people keep trolling.
 - [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/): Reopen lobby while in orbit, and more.
 - [LobbyImprovements](https://thunderstore.io/c/lethal-company/p/Dev1A3/LobbyImprovements/): Password protected lobbies and other improvements to lobbies.

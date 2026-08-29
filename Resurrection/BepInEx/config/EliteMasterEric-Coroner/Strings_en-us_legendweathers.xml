@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="en" />
+    </tags>
+    <strings>
+        <!--
+            Translation Notes:
+            This is the default localization file for Coroner.
+            
+            By default, any of the `FunnyNote` or `Death` strings are dynamically chosen at random.
+            If the `SeriousDeathMessages` option is enabled, the first `Death` message found in the file is used,
+                so make this one literal and specific.
+            The other ones can be puns or jokes, and options can be added or removed as needed, just make sure
+                to keep the correct tags, and make sure that there is at least one message for each `Death` type.
+        -->
+
+        <!-- TN: Killed by a Blood Moon lightning (very rare). -->
+        <DeathWeatherLightningBloodMoon text="Was struck by bloody lightning." />
+        
+        <!-- TN: Killed by the Majora Moon final explosion. -->
+        <DeathWeatherMajoraMoon text="Obliterated by the Majora Moon." />
+        <DeathWeatherMajoraMoon text="Erased from existence." />
+        <DeathWeatherMajoraMoon text="Consumed by a destructive celestial body." />
+        <DeathWeatherMajoraMoon text="Obliterated from the surface of this world." />
+
+        <!-- TN: Killed by a Moon Tear falling from the sky (rare). -->
+        <DeathItemMoonTear text="Crushed by a falling moon's tear." />
+
+        <!-- TN: Killed by wearing the Majora's Mask. -->
+        <DeathItemMajoraMask text="Got possessed by the Majora's Mask." />
+        <DeathItemMajoraMask text="Got wicked with a dark mask." />
+        <DeathItemMajoraMask text="Victim of the forbidden mask curse." />
+        <DeathItemMajoraMask text="Corrupted by Majora's spirit." />
+        <DeathItemMajoraMask text="You shouldn't have done that..." />
+
+    </strings>
+</base>

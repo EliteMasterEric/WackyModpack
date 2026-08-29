@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="en" />
+    </tags>
+    <strings>
+        <!--
+            Translation Notes:
+            This is the default localization file for Coroner.
+            
+            By default, any of the `FunnyNote` or `Death` strings are dynamically chosen at random.
+            If the `SeriousDeathMessages` option is enabled, the first `Death` message found in the file is used,
+                so make this one literal and specific.
+            The other ones can be puns or jokes, and options can be added or removed as needed, just make sure
+                to keep the correct tags, and make sure that there is at least one message for each `Death` type.
+        -->
+
+        <!-- TN: Killed by a Locker. -->
+        <DeathEnemyLocker text="Killed by a Locker." />
+        <DeathEnemyLocker text="Left with nothing but an eyeball." />
+        <DeathEnemyLocker text="Shoved into a locker." />
+        <DeathEnemyLocker text="Was too bright." />
+        <DeathEnemyLocker text="Scanned something they shouldn't've." />
+        <DeathEnemyLocker text="Taken by a locker." />
+        <DeathEnemyLocker text="Relived highschool." />
+        
+        <!-- TN: Killed by two Lockers colliding and exploding. -->
+        <DeathEnemyLockerExplode text="Killed by a Locker explosion."/>
+        <DeathEnemyLockerExplode text="Caught in a blast from two lockers."/>
+        <DeathEnemyLockerExplode text="Got between two lockers."/>
+        <DeathEnemyLockerExplode text="Managed to kill a couple lockers."/>
+    </strings>
+</base>

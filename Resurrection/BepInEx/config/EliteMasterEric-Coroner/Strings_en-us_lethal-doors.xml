@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="en" />
+    </tags>
+    <strings>
+        <!--
+            Translation Notes:
+            This is the default localization file for Coroner.
+            
+            By default, any of the `FunnyNote` or `Death` strings are dynamically chosen at random.
+            If the `SeriousDeathMessages` option is enabled, the first `Death` message found in the file is used,
+                so make this one literal and specific.
+            The other ones can be puns or jokes, and options can be added or removed as needed, just make sure
+                to keep the correct tags, and make sure that there is at least one message for each `Death` type.
+        -->
+
+        <!-- TN: Killed by LethalDoors closing on them. -->
+        <DeathLethalDoors text="Crushed by the ship doors." />
+        <DeathLethalDoors text="Caught their fingers in the doors." />
+        <DeathLethalDoors text="Shut between the doors." />
+        <DeathLethalDoors text="Commit suicide in the most basic way." />
+        <DeathLethalDoors text="Wished the company invested in door sensors." />
+        <DeathLethalDoors text="Thought they were better than Tatum." /> <!-- TN: Reference to Scream, where a character is killed by a garage door -->
+        <DeathLethalDoors text="Was just as aware of their surroundings as Raoul." /> <!-- TN: Reference to Panic Room, where the character gets their hand crushed by a sliding door -->
+        <DeathLethalDoors text="Split in two by the ship doors." />
+        <DeathLethalDoors text="Looked too much like a monster that must be kept out." />
+        <DeathLethalDoors text="Got crushed in the doors by a nervous teammate." />
+        <DeathLethalDoors text="Split in two like a lawyer." /> <!-- TN: Reference to THIR13EN Ghosts, where this happens. -->
+        <DeathLethalDoors text="Wasn't a very good doorstop." />
+        <DeathLethalDoors text="Was SO close to making it into the ship." />
+        <DeathLethalDoors text="Couldn't fit through the doorway." />
+        <DeathLethalDoors text="Couldn't wait to press the red button." />
+        <DeathLethalDoors text="Trapped by the closing doors." />
+        <DeathLethalDoors text="Rode on the Storm, CRUSHED by The Doors." /> <!-- TN: (Bad) Reference to The Doors (band) -->
+
+
+
+    </strings>
+</base>

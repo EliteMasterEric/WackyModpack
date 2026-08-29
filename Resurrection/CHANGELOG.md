@@ -21,6 +21,7 @@ Okay I experimented with content mods and ended up redoing a bunch of stuff. Wes
 - Added the following quality of life mods:
     - BetterSprayPaint
     - ShowCapacity
+    - CoronerIntegrations
 - Added the following performance and bugfix mods:
     - ApparatusFix
 - Added the following library mods:

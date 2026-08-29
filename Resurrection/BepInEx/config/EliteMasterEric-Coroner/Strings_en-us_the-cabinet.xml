@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="en" />
+    </tags>
+    <strings>
+        <!--
+            Translation Notes:
+            This is the default localization file for Coroner.
+            
+            By default, any of the `FunnyNote` or `Death` strings are dynamically chosen at random.
+            If the `SeriousDeathMessages` option is enabled, the first `Death` message found in the file is used,
+                so make this one literal and specific.
+            The other ones can be puns or jokes, and options can be added or removed as needed, just make sure
+                to keep the correct tags, and make sure that there is at least one message for each `Death` type.
+        -->
+
+        <!-- TN: Killed by The Cabinet. -->
+        <DeathEnemyCabinet text="Killed by The Cabinet." />
+        <DeathEnemyCabinet text="Saw something they shouldn't." />
+        <DeathEnemyCabinet text="Eaten by a piece of furniture." />
+        <DeathEnemyCabinet text="Devoured by The Cabinet." />
+        <DeathEnemyCabinet text="Saw it moving." />
+        <DeathEnemyCabinet text="Witnessed what lies within." />
+        <DeathEnemyCabinet text="Got REALLY invested into the architecture of furniture." />
+        <DeathEnemyCabinet text="Found a new appreciation for quality carpentry." />
+    </strings>
+</base>

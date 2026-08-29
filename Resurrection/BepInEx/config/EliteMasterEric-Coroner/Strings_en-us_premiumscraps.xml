@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="en" />
+    </tags>
+    <strings>
+        <!--
+            Translation Notes:
+            This is the default localization file for Coroner.
+            
+            By default, any of the `FunnyNote` or `Death` strings are dynamically chosen at random.
+            If the `SeriousDeathMessages` option is enabled, the first `Death` message found in the file is used,
+                so make this one literal and specific.
+            The other ones can be puns or jokes, and options can be added or removed as needed, just make sure
+                to keep the correct tags, and make sure that there is at least one message for each `Death` type.
+        -->
+
+        <!-- TN: When the bomb explodes. -->
+        <DeathItemBomb text="Blown up by a bomb." />
+        <DeathItemBomb text="Caught in a bomb explosion." />
+        <DeathItemBomb text="Exploded by a pretty dangerous weapon." />
+        <DeathItemBomb text="Tried to defuse a bomb." />
+        <DeathItemBomb text="Was unlucky with the bomb." />
+
+        <!-- TN: Exploded when the King's head grows (rare). -->
+        <DeathItemTheKing text="Was blown up by The King." />
+        <DeathItemTheKing text="The King was a bit too nervous." />
+        <DeathItemTheKing text="I wonder what's for dinner...?" />
+
+        <!-- TN: Killed by another player using the Controller on you. -->
+        <DeathItemController text="Died while being controlled by a coworker." />
+        <DeathItemController text="Was controlled by a coworker." />
+        <DeathItemController text="Was trolled by someone using a special electronic device." />
+        <DeathItemController text="Was being moved by pure green electronic magic." />
+
+        <!-- TN: Unlucky penalty when killing another player with the Controller. -->
+        <DeathItemControllerUnlucky text="Exploded due to unlucky Controller usage." />
+        <DeathItemControllerUnlucky text="Why did you tried to kill your friend?" />
+
+        <!-- TN: Exploded when using the Fake Airhorn (explosion effect). -->
+        <DeathItemFakeAirhornExplosion text="Exploded by using the Fake Airhorn." />
+        <DeathItemFakeAirhornExplosion text="This was not the real one..." />
+        <DeathItemFakeAirhornExplosion text="Killed by using an item?" />
+
+        <!-- TN: Exploded when using the Fake Airhorn (lightning effect). -->
+        <DeathItemFakeAirhornLightning text="Struck by lightning when using the Fake Airhorn." />
+        <DeathItemFakeAirhornLightning text="Struck by the powers of Zeus." />
+        <DeathItemFakeAirhornLightning text="Oh no, it was a fake item..." />
+
+        <!-- TN: Heart attack effect by getting the Death Hallucination when reading the Job application. -->
+        <DeathItemJobApplication text="Suffered a mysterious heart attack." />
+        <DeathItemJobApplication text="Got a heart attack." />
+        <DeathItemJobApplication text="Tried reading a dark paper from a forgotten facility." />
+        <DeathItemJobApplication text="Was not hired, is now jobless." />
+
+        <!-- TN: Exploded by the Helm of Domination special unlucky effect. -->
+        <DeathItemHelmOfDomination text="Was exploded by the Helm of Domination." />
+        <DeathItemHelmOfDomination text="Got caught in the helmet's explosion." />
+        <DeathItemHelmOfDomination text="Is now wearing the Helm of the deads." />
+
+        <!-- TN: Died by drinking the Gazpacho (drunk effect). -->
+        <DeathItemGazpachoDrunk text="Drank the Gazpacho a bit too much." />
+        <DeathItemGazpachoDrunk text="Did not stand up after a sip of the spanish drink." />
+        <DeathItemGazpachoDrunk text="Was not able to take it anymore, died by tomatoes." />
+
+        <!-- TN: Died by drinking the Gazpacho (unlucky explosion effect). -->
+        <DeathItemGazpachoUnlucky text="Drank the Gazpacho and blew up." />
+        <DeathItemGazpachoUnlucky text="Tried to drink a hot tomato soup." />
+
+        <!-- TN: Killed when trying to grab the Galvanized square steel at low health. -->
+        <DeathItemSquareSteel text="Tried to grab the Galvanized square steel at low health." />
+        <DeathItemSquareSteel text="With great power comes great responsabilities, but not for you." />
+        <DeathItemSquareSteel text="Crushed by the screws you borrowed from your aunt." />
+        <DeathItemSquareSteel text="Tried to build a 0.1 square meter house and failed." />
+
+        <!-- TN: Died when spawning monsters with the Friendship ender. -->
+        <DeathItemFriendshipEnder text="Died after using the Friendship Ender." />
+        <DeathItemFriendshipEnder text="Has ended all friendships." />
+
+    </strings>
+</base>
