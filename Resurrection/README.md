@@ -93,14 +93,14 @@ Mods which add new features or content.
 - [Generic Moons](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Moons/): 18 custom moons by GenericGMD
 - [Distinct Moon Variety](https://thunderstore.io/c/lethal-company/p/DistinctBlaze/DistinctMoonVariety/): 4 custom moons
 ### Scrap
-- [Abandoned Company Assets (Fork)](https://thunderstore.io/c/lethal-company/p/HQ_Team/abandonedcompanyassetsfork/): Adds several scrap items that are unique versions of tool items.
-- [Cirno Fumo Scrap](https://thunderstore.io/c/lethal-company/p/Badham_Mods/CirnoFumoScrap/): Funny little ice fairy. Funky!
-- [Generic Scraps](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Scraps/): 22 vanilla-friendly scrap items
-- [Lethal Trading Cards](https://thunderstore.io/c/lethal-company/p/ModusInteractive/Lethal_Trading_Cards/): Booster packs that contain trading cards.
-- [Monster Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/): A bunch of new plushie scraps that look like vanilla monsters.
-- [Needy Cats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/): Kitties to find and rescue!
-- [Scavenger Plushie](https://thunderstore.io/c/lethal-company/p/Scintesto/Scavenger_Plushie/): A plushie that looks like the Lethal Company guy.
-- [Terras Scrap](https://thunderstore.io/c/lethal-company/p/Terraformer9x/TerrasScrap/): A collection of Zeekers styled scrap.
+- [Abandoned Company Assets (Fork)](https://thunderstore.io/c/lethal-company/p/HQ_Team/abandonedcompanyassetsfork/): Adds 9 new scrap items that are unique versions of tool items.
+- [Cirno Fumo Scrap](https://thunderstore.io/c/lethal-company/p/Badham_Mods/CirnoFumoScrap/): Funny little ice fairy. Funky! 1 scrap item.
+- [Generic Scraps](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Scraps/): 22 vanilla-friendly scrap items.
+- [Lethal Trading Cards](https://thunderstore.io/c/lethal-company/p/ModusInteractive/Lethal_Trading_Cards/): Booster packs that contain trading cards. 1 scrap item with varied rewards for opening.
+- [Monster Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/): A bunch of new plushie scraps that look like vanilla monsters. 11 scrap items.
+- [Needy Cats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/): Kitties to find and rescue! 6 different styles.
+- [Scavenger Plushie](https://thunderstore.io/c/lethal-company/p/Scintesto/Scavenger_Plushie/): A plushie that looks like the Lethal Company guy. 1 scrap item.
+- [Terras Scrap](https://thunderstore.io/c/lethal-company/p/Terraformer9x/TerrasScrap/): A collection of 36 Zeekers-styled scrap items.
 ### Weathers
 - [Legend Weathers](https://thunderstore.io/c/lethal-company/p/Zigzag/LegendWeathers/): Rare weathers inspired by Legend of Zelda.
 ### Cosmetics
