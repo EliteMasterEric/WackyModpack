@@ -1,3 +1,22 @@
+# Version 81.4.0
+## Added
+- Added the following mods which add new interiors:
+    - Generic Interiors adds 5 interiors
+- Added the following mods which add new items:
+    - Ouija Board lets you communicate with dead players.
+- Added the following quality of life mods:
+    - GoodItemScan
+- Added the following mods which add new enemies:
+    - Locker
+- Added the following dependency mods:
+    - KenjiLib
+    - JKConfig
+    - Generic Doorscript
+    - Beanie Lib
+## Changed
+- Light Eater spawns less frequently, doesn't hit as hard, and can only drain the ship's power later in the day.
+
+
 # Version 81.3.0
 Okay I experimented with content mods and ended up redoing a bunch of stuff. Wesley's and CodeRebirth are removed, in their place are a bunch more standard 
 ## Added

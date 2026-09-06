@@ -5,42 +5,43 @@ This modpack adds 22 new moons in total.
 You have 22 minutes until the sun explodes.
 They're putting chemicals in the toilet water.
 They left the facility. They're coming for you.
-The facility has 87 new scrap items, give or take.
 99% of gamblers quit before they win. Double down.
-The scanner now shows the location of the cruiser.
 Make sure to stand under the dropship to catch it!
+The facility has 87 new scrap items, give or take.
+The scanner now shows the location of the cruiser.
+The pack adds 5 new interiors to explore for scrap!
 The scanner now shows the location of the dropship.
 Old Birds can see in the fog with their floodlights.
 The "scan" in the terminal is now way more accurate.
+All the suits in the game are available from the start.
 Forest Giants can't see very well in Blizzards and Fog.
 Jesters no longer block doorways as they're winding up.
-All the suits in the game are available from the start.
 Spike traps won't spawn right next to entrances anymore.
 Fire exits now tend to spawn further from other entrances.
 The Company Ship is now wider to accomodate more passengers.
-The suit rack has 44 new suits. Some are duplicates, sorry :P
 Text chat has infinite range while holding the Walkie Talkie.
 The pack adds a bunch of new cosmetics I counted at least 30.
-Sometimes the moon falls out of the sky. Just go get some scrap.
+The suit rack has 44 new suits. Some are duplicates, sorry :P
 Barbers spawn in synchronized pairs now, like Zeekers intended.
 Light Eater. Light Eater. Light Eater. Light Eater. Light Eater.
+Sometimes the moon falls out of the sky. Just go get some scrap.
 Cadaver Growths are common on Adamance, but no longer guaranteed.
 Open the Pause Menu and press the green button to equip cosmetics.
 Earth Leviathans leave behind pools of Quicksand where they tunnel.
 The Toy Cube texture is replaced with one that's actually solvable.
-Stun Grenades and Radar Boosters will sun Coil Heads for 11 seconds.
-You don't have to pick up bodies and put them back down again after teleporting.
 Spray Cans have been gigabuffed! More accurate, and higher capacity.
-You can buy a Self Sorting Storage in the shop. It only accepts tools.
+Stun Grenades and Radar Boosters will sun Coil Heads for 11 seconds.
 Due to strange phenomena, there is no lightning on the planet Gordion.
 If you kill a Masked, you can swipe its Mask and sell it for a reward.
-Type "windows" in the Terminal to buy windows to see outside the ship.
 Previous employees have left working gear in the facility. Go find it!
+Type "windows" in the Terminal to buy windows to see outside the ship.
+You can buy a Self Sorting Storage in the shop. It only accepts tools.
 Spray Cans have been gigabuffed! You can adjust the color or brush size.
-Press the number keys to select slots. Emotes moved to the Function keys.
 If you find a Big Red Button in the facility, DON'T push it. Or maybe do.
+Press the number keys to select slots. Emotes moved to the Function keys.
 Eric wrote all the loading tips, so they're all up to date. You're welcome.
 Like most people, you can kill the Forest Giant by hitting it with your car.
 Type "scan" in the Terminal while in space to appraise all the scrap on board.
 The Teleporter and Inverse Teleporter now work on Radar Boosters. Beam them in!
+You don't have to pick up bodies and put them back down again after teleporting.
 The Zap Gun has been gigabuffed; it has more juice, stuns turrets, and open doors.

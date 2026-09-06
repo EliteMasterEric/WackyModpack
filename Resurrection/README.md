@@ -9,11 +9,10 @@ NOTE: Loading tip max length is 80 characters.
 
 
 ## Known Issues
-- Forest Giant ate player in ship?
-
+- Do NOT go to Volition, it's bugged and Forest Giant ate player in ship
 - Bug where people couldn't interact with stuff?
 - Can't grab mask off corpse?
-- Coilhead/Eyedog stuck on terrain on custom maps?
+- Coilhead/Eyedog stuck sliding on terrain on custom maps?
 - Why is Vaporization cursed?
 - Barber chases people?
 - Value screen only shows 2 digits?
@@ -80,7 +79,7 @@ Mods which add new features or content.
   - Increased the price of Tattered metal sheet.
   - Safely distance spike traps from entrances, and re-add them to mineshafts.
   - A bunch of specific moons got rebalances.
-  - TODO: Should Apparatus now have a randomized price?
+- [OuijaBoard](https://thunderstore.io/c/lethal-company/p/Electric131/OuijaBoard/): A purchasable and salvagable item that lets you communicate with the dead.
 ### Casino
 - [Lethal Casino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/): Adds a Casino to the Company Planet
 - [Lethal Casino v81 Patch](https://thunderstore.io/c/lethal-company/p/lethal_coder/Casino_v81_Patch/): Fixes Lethal Casino for v81
@@ -89,8 +88,9 @@ Mods which add new features or content.
 ### Enemies
 - [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/): Changes the chitter SFX of the Hoarding Bug to the yippee-tbh sound
 - [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/): Coil Heads are now 20% more ominous.
-- [Light Eater](https://thunderstore.io/c/lethal-company/p/Lega/LightEater/): A unique new enemy with custom effects.
+- [Light Eater](https://thunderstore.io/c/lethal-company/p/Lega/LightEater/): A unique enemy which feeds on sources of light.
 - [Mystery Button](https://thunderstore.io/c/lethal-company/p/Tubbbe/Mystery_Button/)
+- [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/): In darkness it lurks, seeks light and sense and only responds with hunger.
 - [Starlancer Enemy Escape](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerEnemyEscape/): Enemies have a chance to escape the facility.
   - Every 30 seconds  (configurable), the enemy may decide to try to escape (or enter if they're normally outdoor) the facility. This only succeeds sometimes.
   - The mod comes with reasonable default odds (configurable). For example, the Bunker Spider has a 10% chance to escape (so it takes an average of 5 minutes to escape).
@@ -117,6 +117,8 @@ Mods which add new features or content.
 - [Terras Scrap](https://thunderstore.io/c/lethal-company/p/Terraformer9x/TerrasScrap/): A collection of 36 Zeekers-styled scrap items.
 ### Weathers
 - [Legend Weathers](https://thunderstore.io/c/lethal-company/p/Zigzag/LegendWeathers/): Rare weathers inspired by Legend of Zelda.
+### Interiors
+- [Generic Interiors](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Interiors/): Five new vanilla-friendly interiors.
 ### Cosmetics
 - [Doms Basic Suit Colors](https://thunderstore.io/c/lethal-company/p/404_Dom/Doms_Basic_Suit_Colors/): Adds 15 basic colored suits.
 - [Fashion Company](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company/): Adds a bunch of unique new suits.
@@ -259,6 +261,10 @@ Mods which are required for other mods to run.
 - [VertexLibrary](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/VertexLibrary/): Provides extension methods for obtaining the oriented bounding box (OBB) of Unity objects.
 - [WaterAssetRestorer](https://thunderstore.io/c/lethal-company/p/Sniper1_1/WaterAssetRestorer/): Helps modded moon/interior devs use vanilla water assets
 - [WeatherRegistry](https://thunderstore.io/c/lethal-company/p/mrov/WeatherRegistry/): A library mod to control the weather system and add new weather effects. Use `weather forecast <moon>` to view moon weather probabilities.
+- [KenjiLib](https://thunderstore.io/c/lethal-company/p/rectorado/KenjiLib/): A dependency for Generic Interiors
+- [JKConfig](https://thunderstore.io/c/lethal-company/p/rectorado/JKConfig/): A dependency for Generic Interiors
+- [Generic Doorscript](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Doorscript/v/1.0.0/): A dependency for Generic Interiors
+- [Beanie Lib](https://thunderstore.io/c/lethal-company/p/Beaniebe/Beanie_Lib/v/1.0.2/): A dependency for Generic Interiors
 
 
 ## Removed
