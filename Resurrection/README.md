@@ -7,13 +7,19 @@ NOTE: Loading tip max length is 80 characters.
 - [Imperium] is for testing only.
 
 
+
 ## Known Issues
-- Teleporting players that aren't the host doesn't drop their scrap
+- Forest Giant ate player in ship?
+
 - Bug where people couldn't interact with stuff?
+- Can't grab mask off corpse?
+- Coilhead/Eyedog stuck on terrain on custom maps?
+- Why is Vaporization cursed?
+- Barber chases people?
+- Value screen only shows 2 digits?
 
 
 ## To Do
-- Whitelist Blue to vanilla moons
 - See scrap values in inventory?
 
 
@@ -86,12 +92,20 @@ Mods which add new features or content.
 - [Light Eater](https://thunderstore.io/c/lethal-company/p/Lega/LightEater/): A unique new enemy with custom effects.
 - [Mystery Button](https://thunderstore.io/c/lethal-company/p/Tubbbe/Mystery_Button/)
 - [Starlancer Enemy Escape](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerEnemyEscape/): Enemies have a chance to escape the facility.
-  - Every 30 seconds (configurable), the enemy may decide to try to escape (or enter if they're normally outdoor) the facility. This only succeeds sometimes.
+  - Every 30 seconds  (configurable), the enemy may decide to try to escape (or enter if they're normally outdoor) the facility. This only succeeds sometimes.
   - The mod comes with reasonable default odds (configurable). For example, the Bunker Spider has a 10% chance to escape (so it takes an average of 5 minutes to escape).
   - Earth Leviathans and Jesters only have a 1% chance to move over.
 ### Moons
 - [Generic Moons](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Moons/): 18 custom moons by GenericGMD
+  - Divide [2 FIRE]: Snowy moon with main entrance across a bridge.
+    - Second fire is off the cliff, need a ladder/jetpack to access
+  - Vaporization [2 FIRE]: Moon with boiling water pools, seems to be CURSED gives awful hazards every time
+- Corrosion [2 FIRE]: Moon with good car routes, and an easy to find main.  
 - [Distinct Moon Variety](https://thunderstore.io/c/lethal-company/p/DistinctBlaze/DistinctMoonVariety/): 4 custom moons
+  - Retinue: Train tracks and a tunnel leading to the fire exists.
+  - Attenuation: Winding canyons and destructible fences.
+  - Volition: Old school with sorta distant entrances. Buggy forest giants?
+  - Detritus: Abandoned factory with lots of Old Birds
 ### Scrap
 - [Abandoned Company Assets (Fork)](https://thunderstore.io/c/lethal-company/p/HQ_Team/abandonedcompanyassetsfork/): Adds 9 new scrap items that are unique versions of tool items.
 - [Cirno Fumo Scrap](https://thunderstore.io/c/lethal-company/p/Badham_Mods/CirnoFumoScrap/): Funny little ice fairy. Funky! 1 scrap item.
