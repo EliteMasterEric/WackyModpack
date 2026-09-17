@@ -1,3 +1,17 @@
+# Version 81.5.0
+Wesley's Moons is updated! This includes 40 new moons, 5 new weathers, 13 new interiors, and several enemy variants.
+## Added
+- Added the following mods:
+    - Wesley's Moons: 40 new moons and a progressive story.
+    - Wesley's Weathers: 5 new weathers for the custom moons.
+    - Wesley's Interiors: 13 new interiors for the custom moons.
+    - Wesley's Ememy Variants: Several new enemy variants to match the custom interiors.
+    - Wesley's Shenanigans: Library mod to support Wesley's Moons
+    - DungeonGenerationPlus: Library mod to support Wesley's Moons
+    - CustomStoryLogsFixed: Library mod to support Wesley's Moons
+    - LCCutscene: Library mod to support Wesley's Moons
+
+
 # Version 81.4.0
 ## Added
 - Added the following mods which add new interiors:

@@ -86,6 +86,7 @@ Mods which add new features or content.
 - [Lethal Casino ATM Fix](https://thunderstore.io/c/lethal-company/p/Azx/LethalCasinoAtmFix/): Fix a bug with the ATM and exact values.
 - [Lethal Casino Tweaks](https://thunderstore.io/c/lethal-company/p/confusingus/LethalCasinoTweaks/): Tweaks Blackjack to add card counting, and a "double-down" button.
 ### Enemies
+- [Wesley's Enemy Variants](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Ememy_Variants/): Adds variant enemies used by Wesley's Interiors.
 - [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/): Changes the chitter SFX of the Hoarding Bug to the yippee-tbh sound
 - [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/): Coil Heads are now 20% more ominous.
 - [Light Eater](https://thunderstore.io/c/lethal-company/p/Lega/LightEater/): A unique enemy which feeds on sources of light.
@@ -96,6 +97,7 @@ Mods which add new features or content.
   - The mod comes with reasonable default odds (configurable). For example, the Bunker Spider has a 10% chance to escape (so it takes an average of 5 minutes to escape).
   - Earth Leviathans and Jesters only have a 1% chance to move over.
 ### Moons
+- [Wesley's Moons](https://thunderstore.io/c/lethal-company/p/Wesley/LC_WesleyMoons/): A journey through 40 custom moons.
 - [Generic Moons](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Moons/): 18 custom moons by GenericGMD
   - Divide [2 FIRE]: Snowy moon with main entrance across a bridge.
     - Second fire is off the cliff, need a ladder/jetpack to access
@@ -116,8 +118,10 @@ Mods which add new features or content.
 - [Scavenger Plushie](https://thunderstore.io/c/lethal-company/p/Scintesto/Scavenger_Plushie/): A plushie that looks like the Lethal Company guy. 1 scrap item.
 - [Terras Scrap](https://thunderstore.io/c/lethal-company/p/Terraformer9x/TerrasScrap/): A collection of 36 Zeekers-styled scrap items.
 ### Weathers
+- [Wesley's Weathers](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Weathers/): 5 new weathers to support Wesley's Moons.
 - [Legend Weathers](https://thunderstore.io/c/lethal-company/p/Zigzag/LegendWeathers/): Rare weathers inspired by Legend of Zelda.
 ### Interiors
+- [Wesley's Interiors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/): 13 new interiors to support Wesley's Moons.
 - [Generic Interiors](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Interiors/): Five new vanilla-friendly interiors.
 ### Cosmetics
 - [Doms Basic Suit Colors](https://thunderstore.io/c/lethal-company/p/404_Dom/Doms_Basic_Suit_Colors/): Adds 15 basic colored suits.
@@ -265,7 +269,17 @@ Mods which are required for other mods to run.
 - [JKConfig](https://thunderstore.io/c/lethal-company/p/rectorado/JKConfig/): A dependency for Generic Interiors
 - [Generic Doorscript](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Doorscript/v/1.0.0/): A dependency for Generic Interiors
 - [Beanie Lib](https://thunderstore.io/c/lethal-company/p/Beaniebe/Beanie_Lib/v/1.0.2/): A dependency for Generic Interiors
+- [Wesley's Shenanigans](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Shenanigans/): A dependency mod to support Wesley's Moons
+- [DungeonGenerationPlus](https://thunderstore.io/c/lethal-company/p/Alice/DungeonGenerationPlus/): A dependency mod to support Wesley's Moons
+- [CustomStoryLogsFixed](https://thunderstore.io/c/lethal-company/p/Yorimor/CustomStoryLogs/): A dependency mod to support Wesley's Moons
+- [LCCutscene](https://git.touhou.dev/Raphtalia/DungeonGenerationPlus_LethalCompany_Mod): A dependency mod to support Wesley's Moons
 
+
+Wesley's Moons
+Wesley's Weathers
+Wesley's Interiors
+Wesley's Ememy Variants
+Wesley's Shenanigans
 
 ## Removed
 Mods which are not included in the pack, with explanations.
@@ -293,8 +307,6 @@ Mods which are not included in the pack, with explanations.
 - https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/: Bugs out the end screen when all players are dead.
 
 - https://thunderstore.io/c/lethal-company/p/AtomicStudio/Atomics_Cosmetics/: Cosmetic mod with too many vanilla unfriendly cosmetics.
-
-- https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/: BANISHED until Wesley updates for v81
 
 ## Maybe
 https://thunderstore.io/c/lethal-company/p/Crafty/LunarConfig/
