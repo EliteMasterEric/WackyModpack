@@ -1,3 +1,8 @@
+# Version 81.5.1
+## Changed
+- Updated 7 mods to their latest hotfix.
+- Added a couple Loading tips.
+
 # Version 81.5.0
 Wesley's Moons is updated! This includes 40 new moons, 5 new weathers, 13 new interiors, and several enemy variants.
 ## Added
