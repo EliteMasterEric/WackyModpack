@@ -10,6 +10,7 @@ Make sure to stand under the dropship to catch it!
 The facility has 87 new scrap items, give or take.
 The scanner now shows the location of the cruiser.
 The scanner now shows the location of the dropship.
+While dead, press O to speak through an Ouija board.
 Old Birds can see in the fog with their floodlights.
 The "scan" in the terminal is now way more accurate.
 The pack adds 18 new interiors to explore for scrap!
@@ -40,6 +41,7 @@ Spray Cans have been gigabuffed! You can adjust the color or brush size.
 If you find a Big Red Button in the facility, DON'T push it. Or maybe do.
 Press the number keys to select slots. Emotes moved to the Function keys.
 Eric wrote all the loading tips, so they're all up to date. You're welcome.
+Galetry is a new company moon, with a gift shop and more than a few secrets.
 Like most people, you can kill the Forest Giant by hitting it with your car.
 Type "scan" in the Terminal while in space to appraise all the scrap on board.
 The Teleporter and Inverse Teleporter now work on Radar Boosters. Beam them in!
