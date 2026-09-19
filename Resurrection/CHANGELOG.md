@@ -1,3 +1,7 @@
+# Version 81.5.2
+## Changed
+- I forgot to update the custom version string on the main menu and I can't reupload the same version so I had to make a new one.
+
 # Version 81.5.1
 ## Changed
 - Updated 7 mods to their latest hotfix.
