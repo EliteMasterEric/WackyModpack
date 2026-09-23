@@ -9,14 +9,14 @@ NOTE: Loading tip max length is 80 characters.
 
 
 ## Known Issues
-- Do NOT go to Volition, it's bugged and Forest Giant ate player in ship
-- Bug where people couldn't interact with stuff?
-- Can't grab mask off corpse?
-- Coilhead/Eyedog stuck sliding on terrain on custom maps?
-- Why is Vaporization cursed?
-- Barber chases people?
-- Value screen only shows 2 digits?
+- Exposed name does not exist: PlayerVolume9 log spam
+- Players aren't loud enough?
+- Car Insurance broken?
+- Loud noise when entering existing saves
 
+- Occasional crashes, unknown cause?
+- Do NOT go to Volition, it's bugged and Forest Giant ate player in ship
+- `NetworkPrefab has a duplicate GlobalObjectIdHash source entry value` (apparently isn't a problem?)
 
 ## To Do
 - See scrap values in inventory?
@@ -26,6 +26,18 @@ NOTE: Loading tip max length is 80 characters.
 - AsyncLogger has a config to disable logging from certain mods.
 - 69% sales are an option in Imperium
 - GeneralImprovements.ShowHiddenMoonsInCatalog AND TerminalUtils.Display Locked Moons both affect the catalogue.
+- GeneralImprovements.ExtraMonitors: 1-6 top row, 7-12 bottom row, 13 left, 14 right
+
+
+## Custom Moons
+### Wesley's Moons
+- Galetry (0): Custom company moon
+- Asteroid (0): Good for cruiser, lots of Coilheads
+- Junic (0): Bad for cruiser, jungle with flower enemies, jungle temple interior, "Tel Aviv Israel" -Ib
+- Motra (15): Bad for cruiser, mortars
+- Infernis (280): Challenging for cruiser, lots of bugs, usually mines, fire exit accessible with 2x ladders
+- Fission-C (600): Radioactive waste, outdoor jesters
+- Etern (750): Great for cruiser, lots of nutcrackers, a nuke drops during the day
 
 
 ## Gameplay
