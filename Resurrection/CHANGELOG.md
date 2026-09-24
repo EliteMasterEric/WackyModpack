@@ -2,6 +2,8 @@
 NOTE: With this patch, you will have to make a new profile or manually remove the mods named in the Removed section, because r2modman/Gale won't remove them for you.
 ## Added
 - Added TooManyEmotes mod.
+    - For every 300 credits the group receives, each receive 100 emote credits to spend on emotes.
+    - The emote shop has animations of various rarities.
 ## Removed
 - Removed several mods to help focus content on Wesley's Moons progression.
     - Generic Moons has been removed.
