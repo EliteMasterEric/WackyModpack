@@ -110,21 +110,10 @@ Mods which add new features or content.
   - Earth Leviathans and Jesters only have a 1% chance to move over.
 ### Moons
 - [Wesley's Moons](https://thunderstore.io/c/lethal-company/p/Wesley/LC_WesleyMoons/): A journey through 40 custom moons.
-- [Generic Moons](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Moons/): 18 custom moons by GenericGMD
-  - Divide [2 FIRE]: Snowy moon with main entrance across a bridge.
-    - Second fire is off the cliff, need a ladder/jetpack to access
-  - Vaporization [2 FIRE]: Moon with boiling water pools, seems to be CURSED gives awful hazards every time
-- Corrosion [2 FIRE]: Moon with good car routes, and an easy to find main.  
-- [Distinct Moon Variety](https://thunderstore.io/c/lethal-company/p/DistinctBlaze/DistinctMoonVariety/): 4 custom moons
-  - Retinue: Train tracks and a tunnel leading to the fire exists.
-  - Attenuation: Winding canyons and destructible fences.
-  - Volition: Old school with sorta distant entrances. Buggy forest giants?
-  - Detritus: Abandoned factory with lots of Old Birds
 ### Scrap
 - [Abandoned Company Assets (Fork)](https://thunderstore.io/c/lethal-company/p/HQ_Team/abandonedcompanyassetsfork/): Adds 9 new scrap items that are unique versions of tool items.
 - [Cirno Fumo Scrap](https://thunderstore.io/c/lethal-company/p/Badham_Mods/CirnoFumoScrap/): Funny little ice fairy. Funky! 1 scrap item.
 - [Generic Scraps](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Scraps/): 22 vanilla-friendly scrap items.
-- [Lethal Trading Cards](https://thunderstore.io/c/lethal-company/p/ModusInteractive/Lethal_Trading_Cards/): Booster packs that contain trading cards. 1 scrap item with varied rewards for opening.
 - [Monster Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/): A bunch of new plushie scraps that look like vanilla monsters. 11 scrap items.
 - [Needy Cats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/): Kitties to find and rescue! 6 different styles.
 - [Scavenger Plushie](https://thunderstore.io/c/lethal-company/p/Scintesto/Scavenger_Plushie/): A plushie that looks like the Lethal Company guy. 1 scrap item.
@@ -134,7 +123,6 @@ Mods which add new features or content.
 - [Legend Weathers](https://thunderstore.io/c/lethal-company/p/Zigzag/LegendWeathers/): Rare weathers inspired by Legend of Zelda.
 ### Interiors
 - [Wesley's Interiors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/): 13 new interiors to support Wesley's Moons.
-- [Generic Interiors](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Interiors/): Five new vanilla-friendly interiors.
 ### Cosmetics
 - [Doms Basic Suit Colors](https://thunderstore.io/c/lethal-company/p/404_Dom/Doms_Basic_Suit_Colors/): Adds 15 basic colored suits.
 - [Fashion Company](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company/): Adds a bunch of unique new suits.
@@ -286,13 +274,6 @@ Mods which are required for other mods to run.
 - [CustomStoryLogsFixed](https://thunderstore.io/c/lethal-company/p/Yorimor/CustomStoryLogs/): A dependency mod to support Wesley's Moons
 - [LCCutscene](https://git.touhou.dev/Raphtalia/DungeonGenerationPlus_LethalCompany_Mod): A dependency mod to support Wesley's Moons
 
-
-Wesley's Moons
-Wesley's Weathers
-Wesley's Interiors
-Wesley's Ememy Variants
-Wesley's Shenanigans
-
 ## Removed
 Mods which are not included in the pack, with explanations.
 - https://thunderstore.io/c/lethal-company/p/TestAccount666/AntiSlimeCamp/: Functionality is now in base game
@@ -317,8 +298,23 @@ Mods which are not included in the pack, with explanations.
 - https://thunderstore.io/c/lethal-company/p/SimonTendo/LCLocalFixes/: Mod is deprecated
 - https://thunderstore.io/c/lethal-company/p/flerouwu/LC_FastStartup/: Just doesn't do anything with my combination of mods?
 - https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/: Bugs out the end screen when all players are dead.
-
+- https://thunderstore.io/c/lethal-company/p/ModusInteractive/Lethal_Trading_Cards/: Bugged, booster packs don't drop cards.
 - https://thunderstore.io/c/lethal-company/p/AtomicStudio/Atomics_Cosmetics/: Cosmetic mod with too many vanilla unfriendly cosmetics.
+
+- [Generic Interiors](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Interiors/): Five new vanilla-friendly interiors.
+- [Generic Moons](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Moons/): 18 custom moons by GenericGMD
+  - Divide [2 FIRE]: Snowy moon with main entrance across a bridge.
+    - Second fire is off the cliff, need a ladder/jetpack to access
+  - Vaporization [2 FIRE]: Moon with boiling water pools, seems to be CURSED gives awful hazards every time
+  - Corrosion [2 FIRE]: Moon with good car routes, and an easy to find main.  
+  - Hydro
+  - Harvest
+  - Vertigo
+- [Distinct Moon Variety](https://thunderstore.io/c/lethal-company/p/DistinctBlaze/DistinctMoonVariety/): 4 custom moons
+  - Retinue: Train tracks and a tunnel leading to the fire exists.
+  - Attenuation: Winding canyons and destructible fences.
+  - Volition: Old school with sorta distant entrances. Buggy forest giants?
+  - Detritus: Abandoned factory with lots of Old Birds
 
 ## Maybe
 https://thunderstore.io/c/lethal-company/p/Crafty/LunarConfig/

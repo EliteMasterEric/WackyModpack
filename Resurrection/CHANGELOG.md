@@ -1,3 +1,26 @@
+# Version 81.6.0
+NOTE: With this patch, you will have to make a new profile or manually remove the mods named in the Removed section, because r2modman/Gale won't remove them for you.
+## Added
+- Added TooManyEmotes mod.
+## Removed
+- Removed several mods to help focus content on Wesley's Moons progression.
+    - Generic Moons has been removed.
+    - Distinct Moon Variety has been removed.
+    - Generic Interiors has been removed.
+- Removed mods that weren't working.
+    - Lethal Trading Cards has been removed.
+## Changed
+- Tweaked configuration files to change scrap rarities.
+    - Fixed the Cirno Fumo spawning too often.
+    - Terras Scrap items should now appear occasionally on Wesley's Moons.
+    - Generic Scrap items should now appear occasionally on Wesley's Moons.
+- Tweaked Masked Player behavior somewhat.
+- Updated several mods to their latest hotfix.
+## Fixed
+- Disabled several options in ScienceBirdTweaks that were causing the mod to fail to load.
+    - This should fix several features, such as auto-teleporting corpses.
+
+
 # Version 81.5.2
 ## Changed
 - I forgot to update the custom version string on the main menu and I can't reupload the same version so I had to make a new one.
