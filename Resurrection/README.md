@@ -123,7 +123,11 @@ Mods which add new features or content.
 - [Legend Weathers](https://thunderstore.io/c/lethal-company/p/Zigzag/LegendWeathers/): Rare weathers inspired by Legend of Zelda.
 ### Interiors
 - [Wesley's Interiors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/): 13 new interiors to support Wesley's Moons.
+### Furniture
+- [MirrorDecor](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/): Adds a mirror with working reflections. Great for previewing suits!
+- [MelanieMelicious Utility Furniture Pack](https://thunderstore.io/c/lethal-company/p/MelanieMelicious/MelanieMelicious_Utility_Furniture_Pack/): Adds 24 useful and functional pieces of furniture,
 ### Cosmetics
+- [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/): Adds over 300 emotes and an emote credit system. Earn more scrap to earn more emotes!
 - [Doms Basic Suit Colors](https://thunderstore.io/c/lethal-company/p/404_Dom/Doms_Basic_Suit_Colors/): Adds 15 basic colored suits.
 - [Fashion Company](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company/): Adds a bunch of unique new suits.
 - [Fashionable Company](https://thunderstore.io/c/lethal-company/p/Smxrez/FashionableCompany/): 20 new vanilla-style cosmetics for the MoreCompany menu.
@@ -165,6 +169,13 @@ Mods which improve gameplay in various ways.
   - TODO: Add more tips!
 - [MainMenuVersion](https://thunderstore.io/c/lethal-company/p/mrov/MainMenuVersion/): Display a custom version number on the main menu.
 - [ShowCapacity](https://thunderstore.io/c/lethal-company/p/Piggy/ShowCapacity/): Show the remaining capacity of the spraycan overlayed on the stamina meter.
+- [ScrapValueHUD](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/ScrapValueHUD/): Show the value of the scrap you're holding on the inventory slot.
+- [RuntimeIcons](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/RuntimeIcons/): Generate Icons for scrap at runtime, replacing the gear icon.
+- [RuntimeIcons BetterRotations](https://thunderstore.io/c/lethal-company/p/debit_card_debit/RuntimeIcons_BetterRotations/): Makes certain modded items look better by customizing their rotation angles.
+- [HoneeItemIcons](https://thunderstore.io/c/lethal-company/p/debit_card_debit/HoneeItemIcons/): An addon for RuntimeIcons that adds custom hand-drawn cartoon icons for vanilla items.
+### Unlocks
+- [KeepUnlocks](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/KeepUnlocks/): Lets you keep certain unlockable items (like furniture) between runs.
+- [FurnitureLock](https://thunderstore.io/c/lethal-company/p/mattymatty/FurnitureLock/): Lets you lock furniture in place to prevent accidentally moving it.
 ### Terminal
 - [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/): Improved formatting for the Terminal pages.
 ### Audio

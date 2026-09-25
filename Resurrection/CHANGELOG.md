@@ -1,9 +1,27 @@
 # Version 81.6.0
 NOTE: With this patch, you will have to make a new profile or manually remove the mods named in the Removed section, because r2modman/Gale won't remove them for you.
 ## Added
+- Added ScrapValueHUD.
+    - Shows the value of the scrap you're holding on the inventory slot.
+    - You no longer have to throw your shit on the ground just to compare with something you found.
+    - Made by me! Hooray!
 - Added TooManyEmotes mod.
     - For every 300 credits the group receives, each receive 100 emote credits to spend on emotes.
     - The emote shop has animations of various rarities.
+- Added KeepUnlocks
+    - Keeps furniture items when losing on a save.
+- Added FurnitureLock
+    - Allows you to lock furniture items in place to prevent accidentally moving it.
+- Added MirrorDecor
+    - A new furniture item with a working reflection!
+- Added MelanieMelicious Utility Furniture Pack
+    - Adds several new and useful furniture items you can buy, like a workbench with extra shelves.
+- Added RuntimeIcons
+    - Uses a proper 3D-rendered image for each scrap icon.
+- Added RuntimeIcons BetterRotations
+    - Specifies new rotation angles for RuntimeIcons so that they look better in the inventory.
+- Added HoneeItemIcons
+    - Added custom hand-drawn cartoon icons for vanilla items.
 ## Removed
 - Removed several mods to help focus content on Wesley's Moons progression.
     - Generic Moons has been removed.
@@ -21,6 +39,8 @@ NOTE: With this patch, you will have to make a new profile or manually remove th
 ## Fixed
 - Disabled several options in ScienceBirdTweaks that were causing the mod to fail to load.
     - This should fix several features, such as auto-teleporting corpses.
+- An update for NicheTweaks fixes a bug with saving player volume with MoreCompany. 
+    - I think this was causing the logspam and player volume issues people had.
 
 
 # Version 81.5.2
