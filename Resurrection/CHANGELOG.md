@@ -10,8 +10,6 @@ NOTE: With this patch, you will have to make a new profile or manually remove th
     - The emote shop has animations of various rarities.
 - Added KeepUnlocks
     - Keeps furniture items when losing on a save.
-- Added FurnitureLock
-    - Allows you to lock furniture items in place to prevent accidentally moving it.
 - Added MirrorDecor
     - A new furniture item with a working reflection!
 - Added MelanieMelicious Utility Furniture Pack
@@ -22,6 +20,8 @@ NOTE: With this patch, you will have to make a new profile or manually remove th
     - Specifies new rotation angles for RuntimeIcons so that they look better in the inventory.
 - Added HoneeItemIcons
     - Added custom hand-drawn cartoon icons for vanilla items.
+- Added CustomPosters
+    - Replaces the vanilla posters on the ship with custom graphics.
 ## Removed
 - Removed several mods to help focus content on Wesley's Moons progression.
     - Generic Moons has been removed.

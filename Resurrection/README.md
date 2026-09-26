@@ -175,7 +175,6 @@ Mods which improve gameplay in various ways.
 - [HoneeItemIcons](https://thunderstore.io/c/lethal-company/p/debit_card_debit/HoneeItemIcons/): An addon for RuntimeIcons that adds custom hand-drawn cartoon icons for vanilla items.
 ### Unlocks
 - [KeepUnlocks](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/KeepUnlocks/): Lets you keep certain unlockable items (like furniture) between runs.
-- [FurnitureLock](https://thunderstore.io/c/lethal-company/p/mattymatty/FurnitureLock/): Lets you lock furniture in place to prevent accidentally moving it.
 ### Terminal
 - [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/): Improved formatting for the Terminal pages.
 ### Audio
