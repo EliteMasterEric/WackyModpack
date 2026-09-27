@@ -1,3 +1,10 @@
+# Version 81.6.1
+## Removed
+- GenericScraps pending log spam fix
+## Fixed
+- Attempted to fix posters not working
+
+
 # Version 81.6.0
 NOTE: With this patch, you will have to make a new profile or manually remove the mods named in the Removed section, because r2modman/Gale won't remove them for you.
 ## Added
