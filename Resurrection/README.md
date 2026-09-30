@@ -9,11 +9,12 @@ NOTE: Loading tip max length is 80 characters.
 
 
 ## Known Issues
-- Exposed name does not exist: PlayerVolume9 log spam
 - Players aren't loud enough?
 - Car Insurance broken?
 - Loud noise when entering existing saves
 
+- Exposed name does not exist: PlayerVolume9 log spam
+  - Removed GenericScrap and its fixed
 - Occasional crashes, unknown cause?
 - Do NOT go to Volition, it's bugged and Forest Giant ate player in ship
 - `NetworkPrefab has a duplicate GlobalObjectIdHash source entry value` (apparently isn't a problem?)
@@ -36,6 +37,10 @@ NOTE: Loading tip max length is 80 characters.
 - Junic (0): Bad for cruiser, jungle with flower enemies, jungle temple interior, "Tel Aviv Israel" -Ib
 - Motra (15): Bad for cruiser, mortars
 - Infernis (280): Challenging for cruiser, lots of bugs, usually mines, fire exit accessible with 2x ladders
+- Gratar (430): Scary factory, tame outdoors with lots of confusing bridges
+  - NOTE: Has a crafting station in the blue fire exit by the main entrance.
+- Acidir (580):
+- Crowd ():
 - Fission-C (600): Radioactive waste, outdoor jesters
 - Etern (750): Great for cruiser, lots of nutcrackers, a nuke drops during the day
 

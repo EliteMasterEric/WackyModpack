@@ -1,6 +1,14 @@
+# Version 81.6.2
+## Changed
+- Updated several mods to their latest hotfix.
+- Removed Imperium again.
+## Fixed
+- I think I fixed posters for real this time.
+
+
 # Version 81.6.1
 ## Removed
-- GenericScraps pending log spam fix
+- Removed the GenericScraps mod pending the log spam fix.
 ## Fixed
 - Attempted to fix posters not working
 
