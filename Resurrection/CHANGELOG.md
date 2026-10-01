@@ -1,6 +1,14 @@
 # Version 81.6.2
 ## Changed
 - Updated several mods to their latest hotfix.
+- Made a little script that alphabetically orders the configs, hopefully changes are easier to track now.
+## Fixed
+- Fixed an issue where certain items would cause log spam when placed on a shelf.
+
+
+# Version 81.6.2
+## Changed
+- Updated several mods to their latest hotfix.
 - Removed Imperium again.
 ## Fixed
 - I think I fixed posters for real this time.
