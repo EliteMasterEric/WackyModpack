@@ -9,6 +9,10 @@ NOTE: Loading tip max length is 80 characters.
 
 
 ## Known Issues
+### Sept 30 session
+- Inconsistent crashes on Motra
+- Documents causing log spam?
+
 - Players aren't loud enough?
 - Car Insurance broken?
 - Loud noise when entering existing saves
@@ -20,7 +24,7 @@ NOTE: Loading tip max length is 80 characters.
 - `NetworkPrefab has a duplicate GlobalObjectIdHash source entry value` (apparently isn't a problem?)
 
 ## To Do
-- See scrap values in inventory?
+- Give only 30 money per starting player
 
 
 ## Notes
@@ -33,16 +37,35 @@ NOTE: Loading tip max length is 80 characters.
 ## Custom Moons
 ### Wesley's Moons
 - Galetry (0): Custom company moon
+
 - Asteroid (0): Good for cruiser, lots of Coilheads
+  - Via tape on Galetry, leads to Etern
 - Junic (0): Bad for cruiser, jungle with flower enemies, jungle temple interior, "Tel Aviv Israel" -Ib
-- Motra (15): Bad for cruiser, mortars
+  - Via tape on Galetry
+- Motra (15): Mortars leading to a castle, bad for cruiser
+  - Via tape on Galetry, leads to Fission/Oldred
+- Crowd (120): Row of houses with some containing fire exits, interior is spooky mansion
+  - Via tape on Galetry
+- Dreck (200): UNVISITED
+  - Bought from floppy disk in gift shop
 - Infernis (280): Challenging for cruiser, lots of bugs, usually mines, fire exit accessible with 2x ladders
+  - Via tape on Galetry
 - Gratar (430): Scary factory, tame outdoors with lots of confusing bridges
-  - NOTE: Has a crafting station in the blue fire exit by the main entrance.
-- Acidir (580):
-- Crowd ():
+  - Via Infernis?
+  - ARG: Has a crafting station in the blue fire exit by the main entrance.
+- Acidir (580): UNVISITED
+  - Via ???
 - Fission-C (600): Radioactive waste, outdoor jesters
+  - Via Radio Message 1 from Motra
+  - ARG: Has place to insert a blank floppy disk drive
+- Oldred (720): Old dark factory filled with landmines, Old birds outside, S+ danger
+  - Via Radio Message 1 from Motra, leads to Trite
 - Etern (750): Great for cruiser, lots of nutcrackers, a nuke drops during the day
+  - Via logs on Asteroid
+- Trite (850): UNVISITED
+  - Via Radio Message 2 from Oldred
+- Repress (1250): UNVISITED
+  - Available Day 0
 
 
 ## Gameplay
