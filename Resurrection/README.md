@@ -6,6 +6,10 @@ NOTE: Loading tip max length is 80 characters.
 
 - [Imperium] is for testing only.
 
+## Important Debugging Info
+- `LogOutput.log` (in the profile folder or via `Gale -> File -> Open Game Log`) only contains standard error output, not info on hard crashes.
+- Check `C:/Users/Eric/AppData/Local/Temp/ZeekerssRBLX/Lethal Company/Crashes` (for crash dumps)
+- Check `C:/Users/Eric/AppData/LocalLow/ZeekerssRBLX/Lethal Company/Player-prev.log` (for a copy of the crash log)
 
 
 ## Known Issues
