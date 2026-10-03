@@ -1,6 +1,6 @@
 REM Stop the build if manifest.json contains any of these mods (space-separated).
 REM Entries can include a version (Author-Name-1.0.0) or omit it to block every version (Author-Name).
-set "BLACKLIST=giosuel-Imperium"
+set "BLACKLIST=giosuel-Imperium Zaggy1024-DunGenReferenceFixer AinaVT-LethalConfig"
 powershell -NoProfile -Command "$deps = (Get-Content -Raw manifest.json | ConvertFrom-Json).dependencies; $bad = $deps | Where-Object { $d = $_; $env:BLACKLIST -split ' ' | Where-Object { $_ -and ($d -eq $_ -or $d.StartsWith($_ + '-')) } }; if ($bad) { $bad | ForEach-Object { Write-Host -ForegroundColor Red \"ERROR: Blacklisted mod found in manifest.json: $_\" }; exit 1 }" || exit /b 1
 
 REM Set the main menu version string to the version_number in manifest.json.

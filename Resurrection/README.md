@@ -45,15 +45,19 @@ NOTE: Loading tip max length is 80 characters.
 - Asteroid (0): Good for cruiser, lots of Coilheads
   - Via tape on Galetry, leads to Etern
 - Junic (0): Bad for cruiser, jungle with flower enemies, jungle temple interior, "Tel Aviv Israel" -Ib
-  - Via tape on Galetry
+  - Via tape outside on Asteroid-13
 - Motra (15): Mortars leading to a castle, bad for cruiser
   - Via tape on Galetry, leads to Fission/Oldred
 - Crowd (120): Row of houses with some containing fire exits, interior is spooky mansion
   - Via tape on Galetry
+- Atlantica (130): UNVISITED
+  - Via map written on the ground outside Infernis.
 - Dreck (200): UNVISITED
-  - Bought from floppy disk in gift shop
+  - Bought from floppy disk in gift shop or found on Asteroid
 - Infernis (280): Challenging for cruiser, lots of bugs, usually mines, fire exit accessible with 2x ladders
   - Via tape on Galetry
+- Filitrios (300): UNVISITED
+  - Via Radio Message 3 from Trite
 - Gratar (430): Scary factory, tame outdoors with lots of confusing bridges
   - Via Infernis?
   - ARG: Has a crafting station in the blue fire exit by the main entrance.
@@ -62,14 +66,18 @@ NOTE: Loading tip max length is 80 characters.
 - Fission-C (600): Radioactive waste, outdoor jesters
   - Via Radio Message 1 from Motra
   - ARG: Has place to insert a blank floppy disk drive
-- Oldred (720): Old dark factory filled with landmines, Old birds outside, S+ danger
+- Oldred (720): Old dark factory filled with landmines, bridges over oil geysers, Old birds outside, S+ danger
   - Via Radio Message 1 from Motra, leads to Trite
 - Etern (750): Great for cruiser, lots of nutcrackers, a nuke drops during the day
   - Via logs on Asteroid
-- Trite (850): UNVISITED
+- Trite (850): Abandoned city filled with turrets and scanners, don't make noise.
+  - Insanely difficult we left like immediately.
   - Via Radio Message 2 from Oldred
 - Repress (1250): UNVISITED
   - Available Day 0
+
+- Utril (): UNVISITED, Covered in white evil mold.
+  - Should we have access to this at all? Found via tape retrieved from mystery button.
 
 
 ## Gameplay

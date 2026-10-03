@@ -1,5 +1,11 @@
 # Version 81.6.4
 ## Removed
+- **DunGenReferenceFixer** snuck its way into the FUCKING pack again.
+## Changed
+- Updated 7 mods to their latest hotfix.
+
+# Version 81.6.4
+## Removed
 - Removed **DunGenReferenceFixer** from the pack for being the root cause of most of the crashes people were having.
 ## Changed
 - Updated Wesley's Shenanigans to 1.0.19.
