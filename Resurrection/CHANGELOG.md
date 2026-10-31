@@ -1,4 +1,28 @@
-# Version 81.6.4
+# Version 81.7.0
+No 6 7 for you LMFAO
+## Added
+- Added **LethalConfig** to make it easier to edit configs in-game.
+- Added **BetterSprayPaintForkColors**, which updates BetterSprayPaint and includes new colors.
+- Added **NeatMenu** which organizes modded menu items into the bottom right.
+- Added **NavMeshLib**, which improves performance for automatic navmesh generation.
+- Added **AlwaysInBounds**, which teleports the player back to the ship when they clip out of bounds.
+- Added **DestroyTemporaryEffects**, which destroys temporary effects like explosion decals when moving to space.
+- Added **EntranceDoorUpgrader**, which makes sure all moons use the new animated door prefab.
+- Added **AdditionalNetworking**, which fixes some networking issues that could cause desyncs.
+- Added **AutoScroll**, which automatically scrolls the terminal's text.
+- Added **ToggleMute**, which adds a keybind to mute and unmute the player's microphone.
+- Added **LethalScrollFix**, which fixes scrolling jumping at the top and bottom in UIs.
+## Removed
+- Removed **BetterSprayPaint** since it was deprecated.
+- Removed **RoundManagerObjectReferenceFix** since it's no longer necessary.
+## Changed
+- Updated 25 other mods to their latest hotfix.
+
+# Version 81.6.6
+## Changed
+- Updated 8 mods to their latest hotfix.
+
+# Version 81.6.6
 ## Removed
 - **DunGenReferenceFixer** snuck its way into the FUCKING pack again.
 ## Changed

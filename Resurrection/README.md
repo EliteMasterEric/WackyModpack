@@ -28,7 +28,7 @@ NOTE: Loading tip max length is 80 characters.
 - `NetworkPrefab has a duplicate GlobalObjectIdHash source entry value` (apparently isn't a problem?)
 
 ## To Do
-- Give only 30 money per starting player
+- Customize display name mid-session?
 
 
 ## Notes
@@ -43,41 +43,71 @@ NOTE: Loading tip max length is 80 characters.
 - Galetry (0): Custom company moon
 
 - Asteroid (0): Good for cruiser, lots of Coilheads
-  - Via tape on Galetry, leads to Etern
+  - Via tape on Galetry (Asteroid)
+  - Leads to Etern
 - Junic (0): Bad for cruiser, jungle with flower enemies, jungle temple interior, "Tel Aviv Israel" -Ib
-  - Via tape outside on Asteroid-13
+  - Via tape outside on Asteroid-13 (Geoffery's Final Message)
+- Hyve (0): Bee Atlantis interior, lots of hives outside, LOTS of honey stingers (evil)
+  - Via tape outside on Lecaro (in giant beehive)
 - Motra (15): Mortars leading to a castle, bad for cruiser
-  - Via tape on Galetry, leads to Fission/Oldred
+  - Via tape on Galetry (Motra)
+  - Leads to Fission, Oldred, Alcatras, Dreck
 - Crowd (120): Row of houses with some containing fire exits, interior is spooky mansion
-  - Via tape on Galetry
-- Atlantica (130): UNVISITED
+  - Fire exits and houses 2 and 5 on left, 6 on right
+  - Via tape on Galetry (Teach the Disloyal)
+- Atlantica (130): Cool moon with hidden puzzles that flood the facility.
   - Via map written on the ground outside Infernis.
-- Dreck (200): UNVISITED
-  - Bought from floppy disk in gift shop or found on Asteroid
+  - Leads to Lecaro
+- Utril (180): UNVISITED, Covered in white evil mold.
+  - Via map on Thalasso, or random video tape
+- Dreck (200): Cold salt mine with caves and barren surface. Chance for random-cave-ins to unavoidably kill you.
+  - Via Floppy Disc (in facility)
+- Gloom (220): Dark with a forest and a maze of caves.
+  - Via tape (Alcatraz)
+  - Brackens can spawn outside but lots of good loot.
 - Infernis (280): Challenging for cruiser, lots of bugs, usually mines, fire exit accessible with 2x ladders
-  - Via tape on Galetry
-- Filitrios (300): UNVISITED
-  - Via Radio Message 3 from Trite
+  - Via tape on Galetry (Infernis)
+  - Leads to Atlantica, Etern, Acidir
+- Thalasso (350): Coral reef with Atlantis Interior
+  - Via map outside on Lecaro
+  - ARG: Place Behemoth's Eye on the pedestal?
+- Alcatras (400): It's Alcatraz, with volleys of mortars
+  - Via Secret Files (Motra)
+  - Leads to Gloom, Junic
 - Gratar (430): Scary factory, tame outdoors with lots of confusing bridges
-  - Via Infernis?
+  - Via tape found in interiors (Atlantica, Infernis)
   - ARG: Has a crafting station in the blue fire exit by the main entrance.
-- Acidir (580): UNVISITED
-  - Via ???
+- Acidir (580): Outdoor jungle moon with acid pools.
+  - Via Cunningham's Log 1 (Infernis)
+  - Leads to Polarus
 - Fission-C (600): Radioactive waste, outdoor jesters
   - Via Radio Message 1 from Motra
   - ARG: Has place to insert a blank floppy disk drive
+- Lecaro (630): Lava caves with breakable walls
+  - Via map outside on Atlantica
+  - Leads to Hyve
+- Polarus (650): Icey wasteland with slippery melting ice. Ice Leviathan.
+  - Via Cunningham's Log 3 (Acidir)
+- Roart (680): An expensive Jungle moon, onscreen map is kinda messed up
+  - Via Atlantica
 - Oldred (720): Old dark factory filled with landmines, bridges over oil geysers, Old birds outside, S+ danger
-  - Via Radio Message 1 from Motra, leads to Trite
+  - Via Radio Message 1 from Motra
+  - Leads to Trite
 - Etern (750): Great for cruiser, lots of nutcrackers, a nuke drops during the day
-  - Via logs on Asteroid
+  - Via Cunningham's Log 1 (Infernis)
 - Trite (850): Abandoned city filled with turrets and scanners, don't make noise.
   - Insanely difficult we left like immediately.
   - Via Radio Message 2 from Oldred
-- Repress (1250): UNVISITED
+- Repress (1250): Very simple moon, 1 fire exit, slower day cycle?
   - Available Day 0
+  - ARG: Bring Apparatus, 2x Oil Barrel, Operating Panel (gift shop? craftable?)
+- Narcotic (1500): Dark with lots of trees. Kept getting really bad weather
+  - Prompt to poison the addict?
+  - Via tape on Crowd (Medicate the Unwell)
 
-- Utril (): UNVISITED, Covered in white evil mold.
-  - Should we have access to this at all? Found via tape retrieved from mystery button.
+
+- Filitrios (300): UNVISITED
+  - Via Radio Message 3 from Trite
 
 
 ## Gameplay
